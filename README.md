@@ -205,6 +205,58 @@ It would be a big bonus if you also had:
 - Experience in the deployment of data-science solutions.
 
 
+## Devops Engineer
+[Luna](https://luna-lang.org) is looking for a devops engineer to help automate
+the processes and practices that underlie Luna, a project said by Singularity
+University to have the potential to change the lives of one-billion people. If 
+you bring a wealth of experience with automation and a deep knowledge of the
+internals of operating systems, this might be the job for you.
+
+As a devops engineer at Luna, you'll be instrumental to the design and 
+automation of all the processes that support the creation, deployment, and
+publication of the language and its IDE. You'll be able to do all of this in
+collaboration with a team of world-class engineers, community managers, and 
+business developers (from PayPal, GitHub and Bloomberg, amongst others) to put
+your touch on the future of Luna.
+
+#### What You'll Do
+As a devops engineer at Luna, you'll be in charge of developing the tools, 
+pipelines and processes that ensure that Luna is at its very best. This will 
+involve: 
+
+- Working closely with the compiler and IDE developers to create tailored 
+  solutions for the CI, and CD of Luna and Luna Studio.
+- Create solutions for packaging Luna and Luna studio in a way that can be run
+  across myriad computing systems.
+- Create frameworks for creating packages in an operating-system independent
+  manner. 
+- Contribute to the future of a rapidly growing open-source project, and its
+  ecosystem.
+
+#### The Skills We're Looking For
+We have a particular set of skills that we're looking for in this role:
+
+- Knowledge of Haskell, with a particular focus on its build process (e.g. cabal
+  the library, custom `Setup.hs` files).
+- Knowledge of the ways that executables and library loading works on Linux, 
+  MacOS, and Windows, and the differences between them. 
+- Experience with how the above differences affects packaging, and the skills to
+  debug related issues.
+- Experience with designing and implementing automated pipelines for building,
+  setting up environments for, testing, and packaging complex projects.
+- Experience with some CI/CD system (we use Azure Pipelines).
+- A focus on robustness, repeatability, and debugability, with an inclination to
+  automation of tasks for integration with build- and development-tools.
+
+Additionally, it would be a big bonus if you had:
+
+- An understanding of the security concerns related to the above tasks.
+- Experience with automated, high-level testing, particularly for GUI projects
+  (e.g. Selenium).
+- Experience with C++ Build Systems (e.g. CMake and MSBuild)
+- Knowledge of computer networking and the operation of VPNs.
+
+
 # Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
 with skills spanning from compiler development to data-science. Though you'll
