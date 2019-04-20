@@ -1,4 +1,4 @@
-# GUI Developer
+## GUI Developer
 [Luna](https://luna-lang.org) is looking for a GUI developer to take charge of
 the design, development, and evolution of a new WebGL-based GUI for Luna, a 
 project said by Singularity University to have the potential to change the lives 
@@ -43,7 +43,7 @@ It would be a big bonus if you had:
   or Touch Designer.
 
 
-# About Luna
+## About Luna
 Luna is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the
 potential to impact the lives of one-billion people worldwide. It spans the
@@ -62,7 +62,7 @@ We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
 
 
-# Who You'll Work With
+## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
 with skills spanning from compiler development to data-science. Though you'll
 have your area to work on, our internal culture is one of collaboration and
@@ -71,7 +71,7 @@ communication, and input is always welcomed.
 We firmly believe that only by working _together_, rather than putting our team
 members in their own boxes, can we create the best version of Luna that can be.
 
-# The Details
+## The Details
 As part of the Luna team you'd be able to work from anywhere, whether that be at
 home, or on the go! We have team members distributed across the world, from San
 Francisco, to London, to Kraków. We welcome remote work and flexible schedules,
@@ -79,7 +79,7 @@ or you can work from the Kraków office (or our planned SF office) if you'd like
 We can provide competitive compensation and holiday, as well as the possibility
 of equity as time goes on.
 
-# How To Apply?
+## How To Apply?
 Send us an email at `jobs@luna-lang.org`, and tell us a little bit about
 yourself and why you think you'd be a good fit for the role! You can also tell
 us about:
