@@ -16,6 +16,7 @@ to name a few), and to make your mark on Luna's future.
 As a senior react developer developer you'll be in charge of the creation of the
 new front-end for the Luna IDE: Luna Studio. This will involve:
 
+- Spearhead the architecture and design for the new version of Luna Studio.
 - Working closely with stakeholders and customers to design an interface that is
   both intuitive and fluid to work with.
 - Implementing these solutions using modern front-end web-development
@@ -28,6 +29,8 @@ new front-end for the Luna IDE: Luna Studio. This will involve:
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
+- Practical experience architecting user-facing applications, with a focus on
+  enabling user workflows.
 - A strong focus on both user experience and aesthetics.
 - Strong practical experience implementing large-scale, user-facing applications
   in JavaScript.
