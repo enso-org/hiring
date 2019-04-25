@@ -1,47 +1,47 @@
-## Cloud Software Engineer
-[Luna](https://luna-lang.org) is looking for a cloud software engineer to take
-charge of the design, development, and evolution of the new SaaS offering for
+## Senior Graphics Developer
+[Luna](https://luna-lang.org) is looking for a senior graphics developer to take
+charge of the design, development, and evolution of a new WebGL-based GUI for
 Luna, a project said by Singularity University to have the potential to change
-the lives of one-billion people. If you bring strong technical skills and have a
-passion for collaboration, this role could be for you.
+the lives of one-billion people. If you bring strong technical skills and a
+passion for user experience, this could be the role for you.
 
-As a cloud software engineer, you'll be leading the effort to design and develop
-our new SaaS offering, providing a web-based version of Luna to our clients. 
-Your work will be integral to the next phase of Luna's development, as we expand
-our offering beyond the open-source project. You'll be able to work with a 
-world-class team of skilled engineers, community managers, and business 
-developers (from Bloomberg, GitHub and PayPal to name a few), and put your stamp
-on Luna's future.  
-  
-**What You'll Do**  
-As a cloud software engineer you'll be in charge of building the SaaS offering 
-for Luna, hosting both the language and its IDE in the cloud. This will involve:
+As a senior graphics developer you'll be a key part of bringing the vision for
+Luna 2.0 into reality, with your work being integral to the realisation of the
+next iteration of Luna. You'll be able to collaborate with world-class team of
+skilled engineers, community managers, and business developers (from Bloomberg,
+PayPal, and GitHub to name a few), and make your indelible mark on the future of
+Luna.
 
-- Working closely with the internal teams to design a secure and scalable SaaS
-  architecture.
-- Developing a SaaS solution based upon that design with robust tooling and
-  reliability, as well as inbuilt support for collaboration.
-- Hosting the architecture on a cloud provider without becoming too dependent on
-  any one given platform. 
-- Contributing to the evolution of this vibrant open-source project by bringing
-  a new component to its ecosystem.  
-  
-**The Skills We're Looking For**  
+#### What You'll Do
+As a senior graphics developer you'll be in charge of the creation of the new
+front-end for the Luna IDE: Luna Studio. This will involve:
+
+- Working closely with stakeholders and customers to design intuitive solutions
+  that unobtrusively enable a fluid workflow.
+- Implement these solutions in a high-performance manner on top of web
+  technologies to create a truly cross-platform GUI.
+- Building a next-generation UI framework based on WebGL.
+- Work with the details of WebGL and JavaScript to ensure a seamless and
+  performant experience for users.
+- Contribute to the creation of a vibrant open-source project and its ecosystem.
+
+#### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- A strong focus on security and scalability.
-- Experience in designing secure, scalable, and collaboration-ready SaaS 
-  architectures.
-- Practical experience in building, scaling, and maintaining such 
-  infrastructure.
-- Experience with one or more of AWS, Azure, Google Cloud, or Digital Ocean.
+- A strong focus on both user experience and aesthetics.
+- 3+ years experience with OpenGL or WebGL, and the related GLSL. We'd also
+  hope for knowledge of GPU pipelines and architectures, and practical
+  experience in optimising GLSL.
+- Practical knowledge and experience with JavaScript (or a related language such
+  as CoffeeScript or TypeScript), and practical usage of it for large-scale
+  projects.
 
-It would be a big bonus if you also had:
+It would be a big bonus if you had:
 
-- Experience working in close conjunction with multiple product teams.
-- Experience building SaaS deployments that are designed to be independent of
-  the underlying cloud provider.
-
+- Knowledge of PureScript, Elm, Haskell, or some other strongly-typed functional
+  programming language.
+- Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW,
+  or Touch Designer.
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
@@ -60,7 +60,6 @@ Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
-
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people

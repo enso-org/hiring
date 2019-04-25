@@ -1,51 +1,48 @@
-## Data Scientist
-[Luna](https://luna-lang.org) is looking for a data scientist to help develop
-data science libraries and pipelines for clients using Luna, a project said by
+## Senior Compiler Engineer
+[Luna](https://luna-lang.org) is looking for a senior compiler engineer to help
+build the next generation compiler and runtime for Luna, a project said by
 Singularity University to have the potential to change the lives of one-billion
-people. If you bring strong analytical and technical skills, and have a passion
-for data, this could be the role for you.
+people. If you have strong technical skills and a passion for all things
+compiler, then this role could be the one for you.
 
-As a Data Scientist at Luna, you'll be instrumental in the design and 
-development of custom solutions and pipelines to help our customers and clients 
-get the results that they need when working with Luna. You'll be able to 
-collaborate with a team of world-class engineers, community managers, and 
-business developers (from Bloomberg, PayPal, and GitHub, amongst others) to make
-your mark on this project's future.  
-  
-**What You'll Do**  
-As a data scientist at Luna, you'll be in charge of developing both libraries
-and pipelines for customers and the wider community. This will involve:
+As a compiler engineer you'll work as part of the compiler team to design and
+implement the new Luna compiler and runtime, work that is at the very core of
+the next phase of Luna's development. You'll have the opportunity to collaborate
+with a world-class team of engineers, community managers, and business
+developers (with experience at Bloomberg, GitHub, and PayPal, to name a few),
+and make your indelible mark on the future of Luna.
 
-- Working closely with key stakeholders and customers to develop and tailor
-  customised data-analysis toolkits and pipelines to fit their needs. 
-- Using your experience to inform design choices regarding Luna, especially 
-  around its support for data-analysis and machine-learning workflows.
-- Working closely with internal teams to ensure that the product evolves to make
-  such uses as simple and easy as possible.
-- Contribute to the growth and success of a vibrant open-source project and its
-  greater ecosystem.  
-  
-**The Skills We're Looking For**  
-We have a particular set of skills that we're looking for in this role:
+#### What You'll Do
+As a senior compiler developer, you'll be working on the design and development
+of the new Luna compiler and runtime, to help support the Language's evolution.
+This will involve:
 
-- Practical experience with at least one functional programming language,
-  preferably Haskell. Please note that this does not count languages (such as
-  Python), that enable limited forms of functional programming.
-- Practical experience working with data-science pipelines for performing 
-  automated analysis, predictive analytics, or machine learning.
-- Practical experience with existing data-science toolkits such as Keras and
-  Tensorflow.
-- An interest in building new data-science tools and pipelines.
-- An interest in working with clients and users to create solutions that fit
-  their needs and enhance their work.
+- Working on the design and implementation of the new portions of the compiler.
+- Both practical and theoretical work on improving Luna's type-system.
+- Practical work improving both the performance of the compiler, and its
+  capabilities.
+- Work on pass-based optimisations to improve the performance of Luna itself.
+- Work on developing the new Luna runtime, including the JIT compiler, base on
+  the infrastructure provided by GHC (the Glasgow Haskell Compiler).
+- Designing and developing mechanisms for foreign language interoperability, to
+  allow users to seamlessly integrate Luna with other languages in their stack.
 
-It would be a big bonus if you also had:
+#### The Skills We're Looking For
+We have a few particular skills that we're looking for in this role:
 
-- Experience building customised data-science pipelines, tailored to particular
-  tasks.
-- Experience in the deployment of data-science solutions.
+- Practical and rich experience writing code in Haskell, including use of many
+  GHC Language Extensions commonly used to enable type-level programming, such
+  as `-XTypeFamilies`, `-XTypeApplications`, and `-XPolyKinds` (3+ years).
+- Experience reasoning about and debugging performance issues in Haskell code.
+- Practical experience building large and complex software systems.
+- Experience in building compilers or the design of type-systems.
 
+It would be a big bonus if you had:
 
+- Familiarity with the GHC Core language, and the GHC pipeline.
+- Experience with dependent type systems, row types, type-checking algorithms,
+  and type-inference.
+- Familiarity with LLVM and its architecture.
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
@@ -64,7 +61,6 @@ Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
-
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people

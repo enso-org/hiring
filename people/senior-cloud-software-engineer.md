@@ -1,49 +1,48 @@
-## Compiler Engineer
-[Luna](https://luna-lang.org) is looking for a compiler engineer to help build
-the next generation compiler and runtime for Luna, a project said by Singularity
-University to have the potential to change the lives of one-billion people. If 
-you have strong technical skills and a passion for all things compiler, then 
-this role could be the one for you.
+## Senior Cloud Software Engineer
+[Luna](https://luna-lang.org) is looking for a senior cloud software engineer to
+take charge of the design, development, and evolution of the new SaaS offering
+for Luna, a project said by Singularity University to have the potential to
+change the lives of one-billion people. If you bring strong technical skills and
+have a passion for collaboration, this role could be for you.
 
-As a compiler engineer you'll work as part of the compiler team to design and
-implement the new Luna compiler and runtime, work that is at the very core of
-the next phase of Luna's development. You'll have the opportunity to collaborate
-with a world-class team of engineers, community managers, and business 
-developers (with experience at Bloomberg, GitHub, and PayPal, to name a few), 
-and make your indelible mark on the future of Luna.  
-  
-**What You'll Do**  
-As a compiler developer, you'll be working on the design and development of the
-new Luna compiler and runtime, to help support the Language's evolution. This 
-will involve:
+As a senior cloud software engineer, you'll be leading the effort to design and
+develop our new SaaS offering, providing a web-based version of Luna to our
+clients. Your work will be integral to the next phase of Luna's development, as
+we expand our offering beyond the open-source project. You'll be able to work
+with a world-class team of skilled engineers, community managers, and business
+developers (from Bloomberg, GitHub and PayPal to name a few), and put your stamp
+on Luna's future.
 
-- Working on the design and implementation of the new portions of the compiler.
-- Both practical and theoretical work on improving Luna's type-system.
-- Practical work improving both the performance of the compiler, and its 
-  capabilities. 
-- Work on pass-based optimisations to improve the performance of Luna itself. 
-- Work on developing the new Luna runtime, including the JIT compiler, base on
-  the infrastructure provided by GHC (the Glasgow Haskell Compiler).
-- Designing and developing mechanisms for foreign language interoperability, to
-  allow users to seamlessly integrate Luna with other languages in their stack.  
-  
-**The Skills We're Looking For**  
+#### What You'll Do
+As a senior cloud software engineer you'll be in charge of building the SaaS
+offering for Luna, hosting both the language and its IDE in the cloud.
+This will involve:
+
+- Working closely with the internal teams to design a secure and scalable SaaS
+  architecture.
+- Developing a SaaS solution based upon that design with robust tooling and
+  reliability, as well as inbuilt support for collaboration.
+- Hosting the architecture on a cloud provider without becoming too dependent on
+  any one given platform.
+- Contributing to the evolution of this vibrant open-source project by bringing
+  a new component to its ecosystem.
+
+#### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- Practical and rich experience writing code in Haskell, including use of many
-  GHC Language Extensions commonly used to enable type-level programming.
-- Experience reasoning about and debugging performance issues in Haskell code.
-- Practical experience building large and complex software systems.
-- Experience in building compilers or the design of type-systems.
+- A strong focus on security and scalability.
+- 3+ years experience in designing secure, scalable, and collaboration-ready
+  SaaS architectures.
+- Practical experience in building, scaling, and maintaining such
+  infrastructure.
+- 3+ years experience with one or more of AWS, Azure, Google Cloud, or Digital
+  Ocean.
 
-It would be a big bonus if you had:
+It would be a big bonus if you also had:
 
-- Familiarity with the GHC Core language, and the GHC pipeline. 
-- Experience with dependent type systems, row types, type-checking algorithms,
-  and type-inference.
-- Familiarity with LLVM and its architecture. 
-
-
+- Experience working in close conjunction with multiple product teams.
+- Experience building SaaS deployments that are designed to be independent of
+  the underlying cloud provider.
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
@@ -62,7 +61,6 @@ Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
-
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people

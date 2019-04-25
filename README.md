@@ -16,28 +16,43 @@ Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
 
-
 ## People We're Looking For
 
-- **[GUI Developer](https://github.com/luna/hiring/blob/master/people/gui-developer.md)** to take charge of the design, development, and evolution of a new WebGL-based GUI for Luna. If you bring strong technical skills and a passion for 
-user experience, this could be the role for you. [Click here to learn more.](https://github.com/luna/hiring/blob/master/people/gui-developer.md)
+- **[Senior Cloud Software Engineer](people/senior-cloud-software-engineer.md)** 
+  to take charge of the design, development, and evolution of the new SaaS 
+  offering for Luna. If you bring strong technical skills and have a passion for
+  collaboration, this role could be for you. 
+  [Click here to learn more.](people/senior-cloud-software-engineer.md)
 
-- **[Cloud Software Engineer](https://github.com/luna/hiring/blob/master/people/cloud-software-engineer.md)** to take
-charge of the design, development, and evolution of the new SaaS offering for
-Luna. If you bring strong technical skills and have a passion for collaboration, this role could be for you. [Click here to learn more.](https://github.com/luna/hiring/blob/master/people/cloud-software-engineer.md)
+- **[Senior Compiler Engineer](people/senior-compiler-engineer.md)** to help 
+  build the next generation compiler and runtime for Luna. If you have strong 
+  technical skills and a passion for all things compiler, then this role could 
+  be the one for you. 
+  [Click here to learn more.](people/senior-compiler-engineer.md)
 
-- **[Compiler Engineer](https://github.com/luna/hiring/blob/master/people/compiler-engineer.md)** to help build
-the next generation compiler and runtime for Luna. If you have strong technical skills and a passion for all things compiler, then 
-this role could be the one for you. [Click here to learn more.](https://github.com/luna/hiring/blob/master/people/compiler-engineer.md)
+- **[Senior Data Scientist](people/senior-data-scientist.md)** to help develop 
+  data science libraries and pipelines for clients using Luna. If you bring 
+  strong analytical and technical skills, and have a passion for data, this 
+  could be the role for you. 
+  [Click here to learn more.](people/senior-data-scientist.md)
 
-- **[Data Scientist](https://github.com/luna/hiring/blob/master/people/data-scientist.md)** to help develop
-data science libraries and pipelines for clients using Luna. If you bring strong analytical and technical skills, and have a passion
-for data, this could be the role for you. [Click here to learn more.](https://github.com/luna/hiring/blob/master/people/data-scientist.md)
+- **[Senior Devops Engineer](people/senior-devops-engineer.md)** to help 
+  automate the processes and practices that underlie Luna. If you bring a wealth
+  of experience with automation and a deep knowledge of the internals of 
+  operating systems, this might be the job for you.
+  [Click here to learn more.](people/senior-devops-engineer.md)
 
-- **[Devops Engineer](https://github.com/luna/hiring/blob/master/people/devops-engineer.md)** to help automate
-the processes and practices that underlie Luna. If you bring a wealth of experience with automation and a deep knowledge of the
-internals of operating systems, this might be the job for you. [Click here to learn more.](https://github.com/luna/hiring/blob/master/people/devops-engineer.md)
+- **[Senior Graphics Developer](people/senior-graphics-developer.md)** to take 
+  charge of the design, development, and evolution of a new WebGL-based GUI for 
+  Luna. If you bring strong technical skills and a passion for user experience, 
+  this could be the role for you. 
+  [Click here to learn more.](people/senior-graphics-developer.md)
 
+- **[Senior React Developer](people/senior-react-developer.md)** to take charge 
+  of the design, development and evolution of a new responsive front-end for 
+  Luna. If you bring strong technical experience and a passion for user 
+  experience, this role could be the one for you. 
+  [Click here to learn more.](people/senior-react-developer.md)
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people

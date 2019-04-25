@@ -1,47 +1,50 @@
-## GUI Developer
-[Luna](https://luna-lang.org) is looking for a GUI developer to take charge of
-the design, development, and evolution of a new WebGL-based GUI for Luna, a 
-project said by Singularity University to have the potential to change the lives 
-of one-billion people. If you bring strong technical skills and a passion for 
-user experience, this could be the role for you.
+## React Developer
+[Luna](https://luna-lang.org) is looking for a senior react developer to take
+charge of the design, development and evolution of a new responsive front-end
+for Luna, a project said by Singularity University to have the potential to
+change the lives of one-billion people. If you bring strong technical experience
+and a passion for user experience, this role could be the one for you.
 
-As a GUI developer you'll be a key part of bringing the vision for Luna 2.0 into
-reality, with your work being integral to the realisation of the next iteration
-of Luna. You'll be able to collaborate with world-class team of skilled
-engineers, community managers, and business developers (from Bloomberg, PayPal,
-and GitHub to name a few), and make your indelible mark on the future of Luna.  
+As a senior react developer, you'll spearhead the design of the new
+user-interface for Luna 2.0, designing and building a front-end that can run
+across multiple browsers and in electron. Your work will become an integral part
+of Luna as you collaborate with a world-class team of skilled engineers,
+community managers, and business developers (from Bloomberg, PayPal, and GitHub,
+to name a few), and to make your mark on Luna's future.
 
-**What You'll Do**  
-As a GUI developer you'll be in charge of the creation of the new front-end for
-the Luna IDE: Luna Studio. This will involve:
+#### What You're Looking For
+As a senior react developer developer you'll be in charge of the creation of the
+new front-end for the Luna IDE: Luna Studio. This will involve:
 
-- Working closely with stakeholders and customers to design intuitive solutions
-  that unobtrusively enable a fluid workflow.
-- Implement these solutions in a high-performance manner on top of web
-  technologies to create a truly cross-platform GUI.
-- Building a next-generation UI framework based on WebGL.
-- Work with the details of WebGL and JavaScript to ensure a seamless and
-  performant experience for users.
-- Contribute to the creation of a vibrant open-source project and its ecosystem.  
-  
-**The Skills We're Looking For**  
+- Working closely with stakeholders and customers to design an interface that is
+  both intuitive and fluid to work with.
+- Implementing these solutions using modern front-end web-development
+  technologies in a cross-platform manner to create an application that can run
+  both in the browser and in electron.
+- Managing and working around cross-browser compatibility issues.
+- Contributing to the testing and integration of the user interface, from both
+  functional and UI standpoints.
+
+#### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
 - A strong focus on both user experience and aesthetics.
-- Experience with OpenGL or WebGL, and the related GLSL. We'd also hope for
-  knowledge of GPU pipelines and architectures, and practical experience in
-  optimising GLSL.
-- Knowledge and experience with JavaScript (or a related language such as
-  CoffeeScript or TypeScript), and practical usage of it for large-scale
-  projects.
+- Strong practical experience implementing large-scale, user-facing applications
+  in JavaScript.
+- A strong understanding, based on practical experience, of modern front-end
+  frameworks, with a focus on React.
+- An understanding of cross-browser compatibility issues, and experience working
+  around such problems.
+- Familiarity with front-end build tools such as Webpack and Gulp.
+- Experience with testing tools, both for integration and for front-end (e.g.
+  Selenium).
 
 It would be a big bonus if you had:
 
-- Knowledge of PureScript, Elm, Haskell, or some other strongly-typed functional
-  programming language.
 - Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW,
   or Touch Designer.
-
+- Experience with languages that compile to JavaScript such as CoffeeScript or
+  TypeScript
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
@@ -60,7 +63,6 @@ Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
 Luna succeed.
-
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
