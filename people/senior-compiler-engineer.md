@@ -17,32 +17,34 @@ As a senior compiler developer, you'll be working on the design and development
 of the new Luna compiler and runtime, to help support the Language's evolution.
 This will involve:
 
-- Working on the design and implementation of the new portions of the compiler.
-- Both practical and theoretical work on improving Luna's type-system.
-- Practical work improving both the performance of the compiler, and its
-  capabilities.
-- Work on pass-based optimisations to improve the performance of Luna itself.
-- Work on developing the new Luna runtime, including the JIT compiler, base on
-  the infrastructure provided by GHC (the Glasgow Haskell Compiler).
-- Designing and developing mechanisms for foreign language interoperability, to
-  allow users to seamlessly integrate Luna with other languages in their stack.
+- Working to design and implement the new Luna interpreter, including the 
+  typechecker, optimiser, and foreign-language interoperability.
+- Theoretical and practical treatments of the theory behind Luna's type-system,
+  and the implementation of the type inference and type checking engines for the
+  same.
+- Practical work improving both the performance and capabilities of the new
+  interpreter.
+- Practical work implementing front-end optimisations for Luna that improve the
+  code that is executed by the interpreter.
 
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- Practical and rich experience writing code in Haskell, including use of many
-  GHC Language Extensions commonly used to enable type-level programming, such
-  as `-XTypeFamilies`, `-XTypeApplications`, and `-XPolyKinds` (3+ years).
-- Experience reasoning about and debugging performance issues in Haskell code.
+- Practical and rich experience writing code in both Scala and Java, including
+  experience with type-level programming techniques in the former (3+ years).
+- A deep understanding of the JVM, its execution model, and garbage collection
+  behaviours, born of practical experience.
+- Experience using the JVM's profiling and debugging tools to solve problems on
+  large-scale projects.
 - Practical experience building large and complex software systems.
-- Experience in building compilers or the design of type-systems.
+- Experience in building compilers and/or the design of type systems.
 
 It would be a big bonus if you had:
 
-- Familiarity with the GHC Core language, and the GHC pipeline.
+- Experience with GraalVM and the Truffle framework for programming language
+  development.
 - Experience with dependent type systems, row types, type-checking algorithms,
   and type-inference.
-- Familiarity with LLVM and its architecture.
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
