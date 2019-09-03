@@ -51,6 +51,9 @@ It would be a big bonus if you also had:
 - A bachelor's degree or equivalent work experience preferred.
 - Experience with an development method (e.g. Scrum, Agile, Kanban).
 
+Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
+You don't have to match _all_ of the skills above to apply!
+
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the

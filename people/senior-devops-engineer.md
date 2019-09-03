@@ -50,6 +50,9 @@ Additionally, it would be a big bonus if you had:
 - Experience with C++ Build Systems (e.g. CMake and MSBuild)
 - Knowledge of computer networking and the operation of VPNs.
 
+Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
+You don't have to match _all_ of the skills above to apply!
+
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the

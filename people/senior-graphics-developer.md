@@ -43,6 +43,9 @@ It would be a big bonus if you had:
 - Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW,
   or Touch Designer.
 
+Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
+You don't have to match _all_ of the skills above to apply!
+
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the

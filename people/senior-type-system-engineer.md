@@ -1,50 +1,52 @@
-## Senior Data Scientist
-[Luna](https://luna-lang.org) is looking for a senior data scientist to help
-develop data science libraries and pipelines for clients using Luna, a project
-said by Singularity University to have the potential to change the lives of
-one-billion people. If you bring strong analytical and technical skills, and
-have a passion for data, this could be the role for you.
+## Senior Type-System Engineer
+[Luna](https://luna-lang.org) is looking for a senior type-system engineer to
+help build the next generation interpreter and runtime for Luna, a project said
+by Singularity University to have the potential to change the lives of
+one-billion people. If you have strong technical skills and a passion for all
+things compiler, then this role could be the one for you.
 
-As a Senior Data Scientist at Luna, you'll be instrumental in the design and
-development of custom solutions and pipelines to help our customers and clients
-get the results that they need when working with Luna. You'll be able to
-collaborate with a team of world-class engineers, community managers, and
-business developers (from Bloomberg, PayPal, and GitHub, amongst others) to make
-your mark on this project's future.
+As a type-system engineer you'll work as part of the compiler team to design and
+implement Luna's new type system, including its underlying theory, type-checker,
+and inference engine. This wok is _intrinsic_ to Luna's evolution, and will
+provide you with the opportunity to collaborate with a world-class team of
+engineers, community managers, and business developers (with experience at
+Bloomberg, GitHub, PayPal, to name a few), making your mark on Luna's future.
 
 #### What You'll Do
-As a senior data scientist at Luna, you'll be in charge of developing both
-libraries and pipelines for customers and the wider community. This will
-involve:
+As a senior type-system engineer, you'll be working on the design and
+development of Luna's new type-system, in conjunction with the rest of the
+compiler team, to help support the language's evolution. This will involve:
 
-- Working closely with key stakeholders and customers to develop and tailor
-  customised data-analysis toolkits and pipelines to fit their needs.
-- Using your experience to inform design choices regarding Luna, especially
-  around its support for data-analysis and machine-learning workflows.
-- Working closely with internal teams to ensure that the product evolves to make
-  such uses as simple and easy as possible.
-- Contribute to the growth and success of a vibrant open-source project and its
-  greater ecosystem.
+- Determining and formalising the theoretical underpinnings of the new type
+  system in a way as to ensure its soundness.
+- Both theoretical and practical treatments of the theory behind Luna's type
+  system.
+- Working with the broader compiler team to implement the type-checking and
+  type-inference engines as part of the greater interpreter.
+- Using the type-system's information to improve the interpreter's functionality
+  and performance, as well as how it interacts with the users.
 
 #### The Skills We're Looking For
-We have a particular set of skills that we're looking for in this role:
+We have a few particular skills that we're looking for in this role.
 
-- 5+ years practical experience working with data-science pipelines for
-  performing automated analysis, predictive analytics, or machine learning.
-- Practical experience with existing data-science toolkits such as Keras and
-  Tensorflow.
-- An interest in building new data-science tools and pipelines.
-- Practical experience with at least one functional programming language,
-  preferably Haskell. Please note that this does not count languages (such as
-  Python), that enable limited forms of functional programming.
-- An interest in working with clients and users to create solutions that fit
-  their needs and enhance their work.
+- Practical and rich experience writing code in a functional programming
+  language such as Haskell or Scala, including experience with type-level
+  programming techniques (3+ years).
+- Experience working with the theory behind powerful type systems, including
+  row types, type-checking and type-inference algorithms, and dependently-typed
+  systems.
+- Practical experience building real-world type-systems, including facilities
+  for both type-checking and inference.
+- An awareness of the UX impacts of type-systems, and a willingness to minimise
+  their often-intrusive nature.
+- Practical experience in building large and complex software systems.
 
-It would be a big bonus if you also had:
+It would be a big bonus if you had:
 
-- Experience building customised data-science pipelines, tailored to particular
-  tasks.
-- Experience in the deployment of data-science solutions.
+- Experience writing Java and Scala code, as these will be used to implement the
+  type-system.
+- Experience in writing comprehensive regression tests for both type-inference
+  and type-checking systems.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!

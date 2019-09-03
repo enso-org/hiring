@@ -1,50 +1,52 @@
-## Senior Data Scientist
-[Luna](https://luna-lang.org) is looking for a senior data scientist to help
-develop data science libraries and pipelines for clients using Luna, a project
-said by Singularity University to have the potential to change the lives of
-one-billion people. If you bring strong analytical and technical skills, and
-have a passion for data, this could be the role for you.
+## Senior Interpreter Engineer
+[Luna](https://luna-lang.org) is looking for a senior interpreter engineer to
+help build the next generation interpreter and runtime for Luna, a project said
+by Singularity University to have the potential to change the lives of
+one-billion people. If you have strong technical skills and a passion for all
+things interpreter, then this role could be the one for you.
 
-As a Senior Data Scientist at Luna, you'll be instrumental in the design and
-development of custom solutions and pipelines to help our customers and clients
-get the results that they need when working with Luna. You'll be able to
-collaborate with a team of world-class engineers, community managers, and
-business developers (from Bloomberg, PayPal, and GitHub, amongst others) to make
-your mark on this project's future.
+As an interpreter engineer you'll work as part of the compiler team to design
+and implement the new Luna interpreter and runtime, work that is at the very
+core of the next phase of Luna's development. You'll have the opportunity to
+collaborate with a world-class team of engineers, community managers, and
+business developers (with experience at Bloomberg, GitHub, and PayPal, to name a
+few), and make your indelible mark on the future of Luna.
 
 #### What You'll Do
-As a senior data scientist at Luna, you'll be in charge of developing both
-libraries and pipelines for customers and the wider community. This will
-involve:
+As a senior interpreter developer, you'll be working on the design and
+development of the new Luna interpreter and runtime, to help support the
+Language's evolution. This will involve:
 
-- Working closely with key stakeholders and customers to develop and tailor
-  customised data-analysis toolkits and pipelines to fit their needs.
-- Using your experience to inform design choices regarding Luna, especially
-  around its support for data-analysis and machine-learning workflows.
-- Working closely with internal teams to ensure that the product evolves to make
-  such uses as simple and easy as possible.
-- Contribute to the growth and success of a vibrant open-source project and its
-  greater ecosystem.
+- Working to design and implement the new Luna interpreter, including the
+  optimiser, real-time introspection capabilities, and foreign-language
+  interoperability.
+- Practical work improving the performance of the interpreter and the code that
+  it executes by diagnosing performance issues and implementing improvements.
+- Practical work implementing front-end optimisations for Luna that improve the
+  code that is executed by the interpreter.
+- Working on and improving the introspection capabilities that allow external
+  programs to inspect and modify the interpreter's state (including support for
+  debugging).
 
 #### The Skills We're Looking For
-We have a particular set of skills that we're looking for in this role:
+We have a few particular skills that we're looking for in this role:
 
-- 5+ years practical experience working with data-science pipelines for
-  performing automated analysis, predictive analytics, or machine learning.
-- Practical experience with existing data-science toolkits such as Keras and
-  Tensorflow.
-- An interest in building new data-science tools and pipelines.
-- Practical experience with at least one functional programming language,
-  preferably Haskell. Please note that this does not count languages (such as
-  Python), that enable limited forms of functional programming.
-- An interest in working with clients and users to create solutions that fit
-  their needs and enhance their work.
+- Practical and rich experience writing code in either Scala or Java (3+ years).
+- Experience building an interpreter for a programming language.
+- A deep understanding of the JVM, its execution model, and garbage collection
+  behaviours, born of practical experience.
+- Experience using the JVM's profiling and debugging tools to solve problems on
+  large-scale projects.
+- Practical experience building large and complex software systems, as well as
+  in their ongoing evolution and maintenance.
 
-It would be a big bonus if you also had:
+It would be a big bonus if you had:
 
-- Experience building customised data-science pipelines, tailored to particular
-  tasks.
-- Experience in the deployment of data-science solutions.
+- Experience with GraalVM and the Truffle framework for programming language
+  development.
+- Experience using purely functional programming languages, such as Haskell.
+- Experience employing type-level programming techniques in functional
+  programming languages.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!

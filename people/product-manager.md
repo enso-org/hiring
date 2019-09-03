@@ -1,8 +1,9 @@
 # Product Manager
-[Luna](https://luna-lang.org) is looking for product manager to shape the company
-vision and Luna itself. Luna is a project said by Singularity University to have 
-the potential to change the lives of one-billion people. If you bring strong 
-interpersonal skills and a passion for teamwork, this could be the role for you.
+[Luna](https://luna-lang.org) is looking for product manager to shape the
+company vision and Luna itself. Luna is a project said by Singularity University
+to have the potential to change the lives of one-billion people. If you bring
+strong interpersonal skills and a passion for teamwork, this could be the role
+for you.
 
 As a product manager you'll be able to collaborate with a world-class team of
 skilled engineers, community managers, and business developers (from Bloomberg,
@@ -13,15 +14,15 @@ As the product manager at Luna you'll be in charge of ensuring the success of
 all the individual projects that make up the Luna product. This will involve:
 
 - Define and prioritize product requirements, features and functionality, and
-fixes by collecting input from stakeholders, community and field experts.
+  fixes by collecting input from stakeholders, community and field experts.
 - Prioritize the development backlog by aligning with the strategic direction
-of the product.
-- Develop and manage the software product roadmap, communicating the 
-requirements and plans for upcoming releases clearly.
+  of the product.
+- Develop and manage the software product roadmap, communicating the
+  requirements and plans for upcoming releases clearly.
 - Manage development alongside the Project Manager, agreeing on sprints and
-releases.
-- Create a feedback loop on the effectiveness/success of a 
-release, capturing learning and refining the process.
+  releases.
+- Create a feedback loop on the effectiveness/success of a release, capturing
+  learning and refining the process.
 
 ## The Skills We're Looking For
 You must demonstrate proven ability and qualifications in the following
@@ -30,15 +31,18 @@ areas:
 - At least 5+ years building data pipelines and BI solutions.
 - Agile management and development processes.
 - Experience building Business Intelligence/Data Science software.
-- The ability to conduct market research, benchmark, and evaluate new solution 
-strategies objectively.
-- Analytical skills, including a deep understanding of how to interpret customer 
-needs and translate them into application and operational requirements.
-- Meaningful and substantial work experience with business requirements 
-definition and management (end to end), structured analysis, process design, 
-use case documentation and definition.
-- Ability to hold multiple cross functional teams accountable for delivering 
-results.
+- The ability to conduct market research, benchmark, and evaluate new solution
+  strategies objectively.
+- Analytical skills, including a deep understanding of how to interpret customer
+  needs and translate them into application and operational requirements.
+- Meaningful and substantial work experience with business requirements
+  definition and management (end to end), structured analysis, process design,
+  use case documentation and definition.
+- Ability to hold multiple cross functional teams accountable for delivering
+  results.
+
+Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
+You don't have to match _all_ of the skills above to apply!
 
 ## About Luna
 Luna is an award-winning general-purpose programming language and data-science
