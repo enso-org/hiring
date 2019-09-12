@@ -3,7 +3,7 @@
 charge of the design, development, and evolution of a new WebGL-based GUI for
 Luna, a project said by Singularity University to have the potential to change
 the lives of one-billion people. If you bring strong technical skills and a
-passion for user experience, this could be the role for you.
+passion for performance, this could be the role for you.
 
 As a senior graphics developer you'll be a key part of bringing the vision for
 Luna 2.0 into reality, with your work being integral to the realisation of the
@@ -13,35 +13,55 @@ PayPal, and GitHub to name a few), and make your indelible mark on the future of
 Luna.
 
 #### What You'll Do
-As a senior graphics developer you'll be in charge of the creation of the new
-front-end for the Luna IDE: Luna Studio. This will involve:
+As a senior graphics developer, you'll be responsible for designing and building
+a high-performance renderer based on web technologies for use in the Luna IDE:
+Luna Studio. This will involve:
 
-- Working closely with stakeholders and customers to design intuitive solutions
-  that unobtrusively enable a fluid workflow.
-- Implement these solutions in a high-performance manner on top of web
-  technologies to create a truly cross-platform GUI.
-- Building a next-generation UI framework based on WebGL.
-- Work with the details of WebGL and JavaScript to ensure a seamless and
-  performant experience for users.
-- Contribute to the creation of a vibrant open-source project and its ecosystem.
+- Working closely with stakeholders and customers to design the new GUI for Luna
+  Studio.
+- Developing a design for the new renderer that will be used to implement this
+  GUI.
+- Implementing the new renderer in a high-performance manner on top of WebGL and
+  Rust (via Web Assembly).
+- Building a next-generation UI framework using this renderer for use in Luna
+  Studio.
+- Using this UI framework to build the new GUI for Luna Studio itself.
+- Debug performance issues to ensure that the renderer is capable of achieving
+  high performance even on low-powered hardware.
+- Creating visualisations for data science libraries using the renderer and
+  D3.js.
 
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
 - A strong focus on both user experience and aesthetics.
-- 3+ years experience with OpenGL or WebGL, and the related GLSL. We'd also
-  hope for knowledge of GPU pipelines and architectures, and practical
-  experience in optimising GLSL.
-- Practical knowledge and experience with JavaScript (or a related language such
-  as CoffeeScript or TypeScript), and practical usage of it for large-scale
-  projects.
+- 3+ years experience with WebGL (or OpenGL).
+- A deep understanding of graphics abstractions including: VAOs, FBOs, PBOs,
+  buffer types, and asynchronous computation modes.
+- A deep understanding of GPU techniques including: efficient buffer management,
+  efficient GLSL construction, high-performance vector and font rendering,
+  post-processing, 3D scene description (with nested objects), lights, cameras,
+  and animation.
+- 2+ years experience with Rust, including experience writing `unsafe` code for
+  FFI and performance, and using the macro system for metaprogramming. You
+  should be able to write _idiomatic_ rust code.
+- Practical experience building high-performance graphical interfaces for
+  end-user-facing applications.
+
+As part of the hiring process for this job posting we're _very_ interested in
+your previous work in these areas. Please link us to your Rust projects, blog
+posts and shadertoy shaders if you have them! It's important for us to
+understand your experience at the start of the hiring process.
 
 It would be a big bonus if you had:
 
-- Knowledge of PureScript, Elm, Haskell, or some other strongly-typed functional
-  programming language.
+- Experience with Rust's WASM toolchain, with wasm-bindgen, and experience with
+  WASM itself.
 - Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW,
   or Touch Designer.
+- Knowledge of the runtime and memory models used by various JavaScript virtual
+  machines.
+- Knowledge of D3.js, and experience using it to visualise data.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
