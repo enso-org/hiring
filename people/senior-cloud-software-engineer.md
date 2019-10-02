@@ -1,4 +1,4 @@
-## Senior Cloud Software Engineer
+## Senior Cloud/Kubernetes Engineer
 [Luna](https://luna-lang.org) is looking for a senior cloud software engineer to
 take charge of the design, development, and evolution of the new SaaS offering
 for Luna, a project said by Singularity University to have the potential to
@@ -10,8 +10,8 @@ develop our new SaaS offering, providing a web-based version of Luna to our
 clients. Your work will be integral to the next phase of Luna's development, as
 we expand our offering beyond the open-source project. You'll be able to work
 with a world-class team of skilled engineers, community managers, and business
-developers (from Bloomberg, GitHub and PayPal to name a few), and put your stamp
-on Luna's future.
+developers (from Bloomberg, GitHub and PayPal to name a few), and put your
+indelible stamp on Luna's future.
 
 #### What You'll Do
 As a senior cloud software engineer you'll be in charge of building the SaaS
@@ -25,24 +25,32 @@ This will involve:
 - Hosting the architecture on a cloud provider without becoming too dependent on
   any one given platform.
 - Contributing to the evolution of this vibrant open-source project by bringing
-  a new component to its ecosystem.
+  a new component to its ecosystem and product offering.
 
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- A strong focus on security and scalability.
 - 3+ years experience in designing secure, scalable, and collaboration-ready
   SaaS architectures.
-- Practical experience in building, scaling, and maintaining such
-  infrastructure.
-- 3+ years experience with one or more of AWS, Azure, Google Cloud, or Digital
-  Ocean.
+- A strong commitment to security and scalability that permeates your approach
+  to design.
+- Experience with Kubernetes deployment and administration using EKS.
+- Practical knowledge about AWS networking and storage architectures, and how
+  they integrate with Kubernetes.
+- Experience managing AWS resources using Terraform.
+- Experience working in an SRE capacity on monitoring, incident handling and
+  continuous service improvement.
+- Experience building and delivering CI/CD pipelines to ensure service stability
+  and reliability.
+- Experience employing Devops practices such as the 'continuous everything' and
+  'everything as code' styles of work.
+- Experience working with Git, and preferably GitOps.
 
 It would be a big bonus if you also had:
 
-- Experience working in close conjunction with multiple product teams.
-- Experience building SaaS deployments that are designed to be independent of
-  the underlying cloud provider.
+- Skills working with Azure and GCP to help expand beyond AWS in the future.
+- Experience working in close conjunction with multiple product teams to ensure
+  that the solutions you provide meet their needs.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
