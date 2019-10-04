@@ -1,4 +1,4 @@
-## Senior Graphics Developer
+## Senior Rust GPU Developer
 [Luna](https://luna-lang.org) is looking for a senior graphics developer to take
 charge of the design, development, and evolution of a new WebGL-based GUI for
 Luna, a project said by Singularity University to have the potential to change
