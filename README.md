@@ -49,7 +49,7 @@ We're looking for people to fill the following roles.
   operating systems, this might be the job for you.
   [Click here to learn more.](people/senior-devops-engineer.md)
 
-- **[Senior Graphics Developer](people/senior-graphics-developer.md)** to take
+- **[Senior Rust GPU Developer](people/senior-rust-gpu-developer.md)** to take
   charge of the design, development, and evolution of a new WebGL-based GUI for
   Luna. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
