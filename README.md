@@ -55,12 +55,6 @@ We're looking for people to fill the following roles.
   this could be the role for you.
   [Click here to learn more.](people/senior-graphics-developer.md)
 
-- **[Senior React Developer](people/senior-react-developer.md)** to take charge
-  of the design, development and evolution of a new responsive front-end for
-  Luna. If you bring strong technical experience and a passion for user
-  experience, this role could be the one for you.
-  [Click here to learn more.](people/senior-react-developer.md)
-
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
