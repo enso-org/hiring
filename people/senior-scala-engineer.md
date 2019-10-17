@@ -1,11 +1,11 @@
 ## Senior Scala Engineer
-[Luna](https://luna-lang.org) is looking for a senior Scala software engineer to
+[Luna](https://luna-lang.org) is looking for a senior scala engineer to
 take charge of the design, development, and evolution of the new SaaS offering
 for Luna, a project said by Singularity University to have the potential to
 change the lives of one-billion people. If you bring strong technical skills and
 have a passion for collaboration, this role could be for you.
 
-As a senior cloud software engineer, you'll be leading the effort to design and
+As a senior scala engineer, you'll be leading the effort to design and
 develop our new SaaS offering, providing a web-based version of Luna to our
 clients. Your work will be integral to the next phase of Luna's development, as
 we expand our offering beyond the open-source project. You'll be able to work
