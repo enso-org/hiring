@@ -31,7 +31,8 @@ Language's evolution. This will involve:
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- Practical and rich experience writing code in either Scala or Java (3+ years).
+- Practical and rich experience writing code in either Scala or Java (3+ years),
+  with working knowledge of _both_ languages.
 - Experience building an interpreter for a programming language.
 - A deep understanding of the JVM, its execution model, and garbage collection
   behaviours, born of practical experience.
@@ -44,7 +45,8 @@ It would be a big bonus if you had:
 
 - Experience with GraalVM and the Truffle framework for programming language
   development.
-- Experience using purely functional programming languages, such as Haskell.
+- Experience using purely functional programming languages, such as Haskell, or
+  purely-functional paradigms in multi-paradigm languages such as Scala.
 - Experience employing type-level programming techniques in functional
   programming languages.
 
