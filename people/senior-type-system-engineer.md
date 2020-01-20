@@ -30,8 +30,9 @@ compiler team, to help support the language's evolution. This will involve:
 We have a few particular skills that we're looking for in this role.
 
 - Practical and rich experience writing code in a functional programming
-  language such as Haskell or Scala, including experience with type-level
-  programming techniques (3+ years).
+  language such as Haskell, including experience with type-level programming
+  techniques (3+ years).
+- A working knowledge of programming in Scala.
 - Experience working with the theory behind powerful type systems, including
   row types, type-checking and type-inference algorithms, and dependently-typed
   systems.
@@ -43,8 +44,8 @@ We have a few particular skills that we're looking for in this role.
 
 It would be a big bonus if you had:
 
-- Experience writing Java and Scala code, as these will be used to implement the
-  type-system.
+- Experience writing Java code, as it is used heavily in the interpreter and may
+  also be involved in implementing the type-system.
 - Experience in writing comprehensive regression tests for both type-inference
   and type-checking systems.
 
