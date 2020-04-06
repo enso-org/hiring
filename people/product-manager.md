@@ -59,7 +59,7 @@ the R programming language and computational biologist at 23andMe, and Edward
 Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
-Luna succeed.
+Enso succeed.
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
@@ -68,7 +68,7 @@ have your area to work on, our internal culture is one of collaboration and
 communication, and input is always welcomed.
 
 We firmly believe that only by working _together_, rather than putting our team
-members in their own boxes, can we create the best version of Luna that can be.
+members in their own boxes, can we create the best version of Enso that can be.
 
 ## The Details
 As part of the Enso team you'd be able to work from anywhere, whether that be at
@@ -84,7 +84,7 @@ little bit about yourself and why you think you'd be a good fit for the role!
 You can also tell us about:
 
 - Some of your past work or projects.
-- Why you'd like to work on Luna, and where you imagine Luna being in 5 years.
+- Why you'd like to work on Enso, and where you imagine Enso being in 5 years.
 - The most important features of a team that you'd like to work in.
 - Whether you take pride in your ability to communicate clearly and efficiently
   with your team.
