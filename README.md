@@ -76,9 +76,9 @@ We can provide competitive compensation and holiday, as well as the possibility
 of equity as time goes on.
 
 ## How To Apply?
-Send us an email at `jobs@luna-lang.org`, and tell us a little bit about
-yourself and why you think you'd be a good fit for the role! You can also tell
-us about:
+Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
+little bit about yourself and why you think you'd be a good fit for the role!
+You can also tell us about:
 
 - Some of your past work or projects.
 - Why you'd like to work on Luna, and where you imagine Luna being in 5 years.
