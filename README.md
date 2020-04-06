@@ -104,7 +104,7 @@ little bit about yourself and why you think you'd be a good fit for the role!
 You can also tell us about:
 
 - Some of your past work or projects.
-- Why you'd like to work on Luna, and where you imagine Luna being in 5 years.
+- Why you'd like to work on Enso, and where you imagine Enso being in 5 years.
 - The most important features of a team that you'd like to work in.
 - Whether you take pride in your ability to communicate clearly and efficiently
   with your team.
