@@ -1,6 +1,6 @@
 # Product Manager
 [Enso](https://enso.org) is looking for product manager to shape the company 
-vision and Luna itself. Luna is a project said by Singularity University to have 
+vision and Enso itself. Enso is a project said by Singularity University to have 
 the potential to change the lives of one-billion people. If you bring strong 
 interpersonal skills and a passion for teamwork, this could be the role for you.
 
@@ -9,8 +9,8 @@ skilled engineers, community managers, and business developers (from Bloomberg,
 PayPal, and GitHub to name a few), and put your own touch on the future of Luna.
 
 ## What You'll Do
-As the product manager at Luna you'll be in charge of ensuring the success of
-all the individual projects that make up the Luna product. This will involve:
+As the product manager at Enso you'll be in charge of ensuring the success of
+all the individual projects that make up the Enso product. This will involve:
 
 - Define and prioritize product requirements, features and functionality, and
   fixes by collecting input from stakeholders, community and field experts.
@@ -43,8 +43,8 @@ areas:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-## About Luna
-Luna is an award-winning general-purpose programming language and data-science
+## About Enso
+Enso is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the
 potential to impact the lives of one-billion people worldwide. It spans the
 entire stack, from high-level visualisation and communication, to the
@@ -52,7 +52,7 @@ nitty-gritty of running backend services in a single language. With inbuilt
 capabilities for visualisation and a dual-syntax architecture, the possibilities
 are limitless.
 
-At Luna, we have a world-class team, with developers, community managers, and
+At Enso, we have a world-class team, with developers, community managers, and
 business developers from all walks of life and backgrounds, and work in close
 collaboration with industry advisers such as Robert Gentleman, the creator of
 the R programming language and computational biologist at 23andMe, and Edward
@@ -71,7 +71,7 @@ We firmly believe that only by working _together_, rather than putting our team
 members in their own boxes, can we create the best version of Luna that can be.
 
 ## The Details
-As part of the Luna team you'd be able to work from anywhere, whether that be at
+As part of the Enso team you'd be able to work from anywhere, whether that be at
 home, or on the go! We have team members distributed across the world, from San
 Francisco, to London, to Kraków. We welcome remote work and flexible schedules,
 or you can work from the Kraków office (or our planned SF office) if you'd like.
