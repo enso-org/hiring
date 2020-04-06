@@ -1,7 +1,7 @@
 # Project Manager
-[Luna](https://luna-lang.org)  is looking for project manager to support the
+[Enso](https://enso.org)  is looking for project manager to support the
 development team, foster effective communication, and create tools and resources
-that drive improvements to the teams' execution and the product itself Luna is a
+that drive improvements to the teams' execution and the product itself Enso is a
 project said by Singularity University to have the potential to change the lives
 of one-billion people. If you bring strong interpersonal skills and a passion
 for teamwork, this could be the role for you.
@@ -11,8 +11,8 @@ skilled engineers, community managers, and business developers (from Bloomberg,
 PayPal, and GitHub to name a few), and put your own touch on the future of Luna.
 
 ## What You'll Do
-As the project manager at Luna you'll be in charge of ensuring the success of
-all the individual projects that make up the Luna product. This will involve:
+As the project manager at Enso you'll be in charge of ensuring the success of
+all the individual projects that make up the Enso product. This will involve:
 
 - Managing projects from inception to deployment and completion, ensuring that a
   stringent quality control process is followed throughout.
@@ -54,8 +54,8 @@ It would be a big bonus if you also had:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-## About Luna
-Luna is an award-winning general-purpose programming language and data-science
+## About Enso
+Enso is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the
 potential to impact the lives of one-billion people worldwide. It spans the
 entire stack, from high-level visualisation and communication, to the
@@ -63,14 +63,14 @@ nitty-gritty of running backend services in a single language. With inbuilt
 capabilities for visualisation and a dual-syntax architecture, the possibilities
 are limitless.
 
-At Luna, we have a world-class team, with developers, community managers, and
+At Enso, we have a world-class team, with developers, community managers, and
 business developers from all walks of life and backgrounds, and work in close
 collaboration with industry advisers such as Robert Gentleman, the creator of
 the R programming language and computational biologist at 23andMe, and Edward
 Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
-Luna succeed.
+Enso succeed.
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
@@ -79,10 +79,10 @@ have your area to work on, our internal culture is one of collaboration and
 communication, and input is always welcomed.
 
 We firmly believe that only by working _together_, rather than putting our team
-members in their own boxes, can we create the best version of Luna that can be.
+members in their own boxes, can we create the best version of Enso that can be.
 
 ## The Details
-As part of the Luna team you'd be able to work from anywhere, whether that be at
+As part of the Enso team you'd be able to work from anywhere, whether that be at
 home, or on the go! We have team members distributed across the world, from San
 Francisco, to London, to Kraków. We welcome remote work and flexible schedules,
 or you can work from the Kraków office (or our planned SF office) if you'd like.
@@ -90,9 +90,9 @@ We can provide competitive compensation and holiday, as well as the possibility
 of equity as time goes on.
 
 ## How To Apply?
-Send us an email at `jobs@luna-lang.org`, and tell us a little bit about
-yourself and why you think you'd be a good fit for the role! You can also tell
-us about:
+Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
+little bit about yourself and why you think you'd be a good fit for the role!
+You can also tell us about:
 
 - Some of your past work or projects.
 - Why you'd like to work on Luna, and where you imagine Luna being in 5 years.
