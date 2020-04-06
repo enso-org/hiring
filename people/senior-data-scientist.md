@@ -1,25 +1,25 @@
 ## Senior Data Scientist
-[Luna](https://luna-lang.org) is looking for a senior data scientist to help
-develop data science libraries and pipelines for clients using Luna, a project
-said by Singularity University to have the potential to change the lives of
-one-billion people. If you bring strong analytical and technical skills, and
-have a passion for data, this could be the role for you.
+[Enso](https://enso.org) is looking for a senior data scientist to help develop
+data science libraries and pipelines for clients using Enso, a project said by
+Singularity University to have the potential to change the lives of one-billion
+people. If you bring strong analytical and technical skills, and have a passion
+for data, this could be the role for you.
 
-As a Senior Data Scientist at Luna, you'll be instrumental in the design and
+As a Senior Data Scientist at Enso, you'll be instrumental in the design and
 development of custom solutions and pipelines to help our customers and clients
-get the results that they need when working with Luna. You'll be able to
+get the results that they need when working with Enso. You'll be able to
 collaborate with a team of world-class engineers, community managers, and
 business developers (from Bloomberg, PayPal, and GitHub, amongst others) to make
 your mark on this project's future.
 
 #### What You'll Do
-As a senior data scientist at Luna, you'll be in charge of developing both
+As a senior data scientist at Enso, you'll be in charge of developing both
 libraries and pipelines for customers and the wider community. This will
 involve:
 
 - Working closely with key stakeholders and customers to develop and tailor
   customised data-analysis toolkits and pipelines to fit their needs.
-- Using your experience to inform design choices regarding Luna, especially
+- Using your experience to inform design choices regarding Enso, especially
   around its support for data-analysis and machine-learning workflows.
 - Working closely with internal teams to ensure that the product evolves to make
   such uses as simple and easy as possible.
@@ -49,8 +49,8 @@ It would be a big bonus if you also had:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-## About Luna
-Luna is an award-winning general-purpose programming language and data-science
+## About Enso
+Enso is an award-winning general-purpose programming language and data-science
 platform, selected by NASA and Singularity University as a technology with the
 potential to impact the lives of one-billion people worldwide. It spans the
 entire stack, from high-level visualisation and communication, to the
@@ -58,14 +58,14 @@ nitty-gritty of running backend services in a single language. With inbuilt
 capabilities for visualisation and a dual-syntax architecture, the possibilities
 are limitless.
 
-At Luna, we have a world-class team, with developers, community managers, and
+At Enso, we have a world-class team, with developers, community managers, and
 business developers from all walks of life and backgrounds, and work in close
 collaboration with industry advisers such as Robert Gentleman, the creator of
 the R programming language and computational biologist at 23andMe, and Edward
 Kmett, a skilled language designer and machine intelligence researcher at MIRI.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
-Luna succeed.
+Enso succeed.
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
@@ -74,10 +74,10 @@ have your area to work on, our internal culture is one of collaboration and
 communication, and input is always welcomed.
 
 We firmly believe that only by working _together_, rather than putting our team
-members in their own boxes, can we create the best version of Luna that can be.
+members in their own boxes, can we create the best version of Enso that can be.
 
 ## The Details
-As part of the Luna team you'd be able to work from anywhere, whether that be at
+As part of the Enso team you'd be able to work from anywhere, whether that be at
 home, or on the go! We have team members distributed across the world, from San
 Francisco, to London, to Kraków. We welcome remote work and flexible schedules,
 or you can work from the Kraków office (or our planned SF office) if you'd like.
@@ -85,12 +85,12 @@ We can provide competitive compensation and holiday, as well as the possibility
 of equity as time goes on.
 
 ## How To Apply?
-Send us an email at `jobs@luna-lang.org`, and tell us a little bit about
-yourself and why you think you'd be a good fit for the role! You can also tell
-us about:
+Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
+little bit about yourself and why you think you'd be a good fit for the role!
+You can also tell us about:
 
 - Some of your past work or projects.
-- Why you'd like to work on Luna, and where you imagine Luna being in 5 years.
+- Why you'd like to work on Enso, and where you imagine Enso being in 5 years.
 - The most important features of a team that you'd like to work in.
 - Whether you take pride in your ability to communicate clearly and efficiently
   with your team.
