@@ -13,42 +13,31 @@ business developers (from PayPal, GitHub and Bloomberg, amongst others) to put
 your touch on the future of Enso.
 
 #### What You'll Do
-As a senior devops engineer at Enso, you'll be in charge of developing the
-tools, pipelines and processes that ensure that Enso is at its very best.
-This will involve:
+As a senior cloud software engineer you'll be in charge of building the SaaS offering for Enso, hosting both the language and its IDE in the cloud. This will involve:
 
-- Working closely with the compiler and IDE developers to create tailored
-  solutions for the CI, and CD of Enso and Enso Studio.
-- Create solutions for packaging Enso and Enso studio in a way that can be run
-  across myriad computing systems.
-- Create frameworks for creating packages in an operating-system independent
-  manner.
-- Contribute to the future of a rapidly growing open-source project, and its
-  ecosystem.
+- Working closely with the internal teams to design a secure and scalable SaaS architecture.
+- Developing a SaaS solution based upon that design with robust tooling and reliability, as well as inbuilt support for collaboration.
+- Hosting the architecture on a cloud provider without becoming too dependent on any one given platform.
+- Contributing to the evolution of this vibrant open-source project by bringing a new component to its ecosystem and product offering.
 
 #### The Skills We're Looking For
 We have a particular set of skills that we're looking for in this role:
 
-- Knowledge of Haskell, with a particular focus on its build process (e.g. cabal
-  the library, custom `Setup.hs` files).
-- Practical knowledge of the ways that executables and library loading works on
-  Linux, MacOS, and Windows, and the differences between them.
-- Experience with how the above differences affects packaging, and the skills to
-  debug related issues.
-- Practical experience with designing and implementing automated pipelines for
-  building, setting up environments for, testing, and packaging complex
-  projects.
-- Practical experience with some CI/CD system (we use Azure Pipelines).
-- A focus on robustness, repeatability, and debugability, with an inclination to
-  automation of tasks for integration with build- and development-tools.
+- 3+ years experience in designing secure, scalable, and collaboration-ready SaaS architectures.
+- A strong commitment to security and scalability that permeates your approach to design.
+- Experience with Kubernetes deployment and administration using EKS.
+- Experience with Scala and Akka.
+- Practical knowledge about AWS networking and storage architectures, and how they integrate with Kubernetes.
+- Experience managing AWS resources using Terraform.
+- Experience working in an SRE capacity on monitoring, incident handling and continuous service improvement.
+- Experience building and delivering CI/CD pipelines to ensure service stability and reliability.
+- Experience employing Devops practices such as the 'continuous everything' and 'everything as code' styles of work.
+- Experience working with Git, and preferably GitOps.
 
 Additionally, it would be a big bonus if you had:
 
-- An understanding of the security concerns related to the above tasks.
-- Experience with automated, high-level testing, particularly for GUI projects
-  (e.g. Selenium).
-- Experience with C++ Build Systems (e.g. CMake and MSBuild)
-- Knowledge of computer networking and the operation of VPNs.
+- Skills working with Azure and GCP to help expand beyond AWS in the future.
+- Experience working in close conjunction with multiple product teams to ensure that the solutions you provide meet their needs.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
