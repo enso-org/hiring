@@ -40,46 +40,7 @@ We welcome anybody to our team, as long as you have the desire and drive to see
 Enso succeed.
 
 ## People We're Looking For
-We're looking for people to fill the following roles.
-
-- **[Senior Interpreter Engineer](people/senior-interpreter-engineer.md)** to
-  help build the next-generation interpreter and runtime for Enso. If you have
-  strong technical skills and a passion for all-things compiler and interpreter,
-  then this role could be the one for you.
-  [Click here to learn more.](people/senior-interpreter-engineer.md)
-
-- **[Senior Type-System Engineer](people/senior-type-system-engineer.md)** to
-  help build Enso's sophisticated type-system, including the inference engine
-  and type-checker. If you have strong functional programming skills and love to
-  reason about types, this role could be the one for you.
-  [Click here to learn more.](people/senior-type-system-engineer.md)
-
-- **[Senior Cloud Software Engineer](people/senior-cloud-software-engineer.md)**
-  to take charge of the design, development, and evolution of the new SaaS
-  offering for Enso. If you bring strong technical skills and have a passion for
-  collaboration, this role could be for you.
-  [Click here to learn more.](people/senior-cloud-software-engineer.md)
-
-- **[Senior Data Scientist](people/senior-data-scientist.md)** to help develop
-  data science libraries and pipelines for clients using Enso. If you bring
-  strong analytical and technical skills, and have a passion for data, this
-  could be the role for you.
-  [Click here to learn more.](people/senior-data-scientist.md)
-
-- **[Senior Devops Engineer](people/senior-devops-engineer.md)** to help
-  automate the processes and practices that underlie Enso. If you bring a wealth
-  of experience with automation and a deep knowledge of the internals of
-  operating systems, this might be the job for you.
-  [Click here to learn more.](people/senior-devops-engineer.md)
-
-- **[Senior Rust GPU Developer](people/senior-rust-gpu-developer.md)** to take
-  charge of the design, development, and evolution of a new WebGL-based GUI for
-  Enso. If you bring strong technical skills and a passion for user experience,
-  this could be the role for you.
-  [Click here to learn more.](people/senior-graphics-developer.md)
-
-Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
-You don't have to match _all_ of the skills above to apply!
+Thanks for your interest in working with Enso. We are not currently hiring for any roles. When we are, we'll update this document. 
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
