@@ -40,7 +40,13 @@ We welcome anybody to our team, as long as you have the desire and drive to see
 Enso succeed.
 
 ## People We're Looking For
-Thanks for your interest in working with Enso. We are not currently hiring for any roles. When we are, we'll update this document. 
+Thanks for your interest in working with Enso. We're currently looking to fill one role:
+
+- **[Senior Rust GPU Developer](people/senior-rust-gpu-developer.md)** to take
+  charge of the design, development, and evolution of a new WebGL-based GUI for
+  Enso. If you bring strong technical skills and a passion for user experience,
+  this could be the role for you.
+  [Click here to learn more.](people/senior-graphics-developer.md)
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
