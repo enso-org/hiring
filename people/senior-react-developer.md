@@ -30,7 +30,7 @@ We have a few particular skills that we're looking for in this role:
 
 - A strong focus on both user experience and aesthetics.
 - Strong practical experience implementing large-scale, user-facing applications
-  in Type Script.
+  in TypeScript.
 - A strong understanding, based on practical experience, of modern front-end
   frameworks, with a focus on React.
 - An understanding of cross-browser compatibility issues, and experience working
