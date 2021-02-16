@@ -6,17 +6,16 @@ lives of one-billion people. If you bring strong technical experience and
 a passion for user experience, this role could be the one for you.
 
 As a senior react developer, you'll spearhead the design of the new
-user-interface for Enso 2.0, designing and building a front-end that can run
-across multiple browsers and in electron. Your work will become an integral part
+user-interface for Enso Cloud, designing and building a front-end that can run
+across multiple browsers. Your work will become an integral part
 of Enso as you collaborate with a world-class team of skilled engineers,
 community managers, and business developers (from Bloomberg, PayPal, and GitHub,
 to name a few), and to make your mark on Enso's future.
 
 #### What You're Looking For
 As a senior react developer developer you'll be in charge of the creation of the
-new front-end for the Enso IDE: Enso Studio. This will involve:
+new front-end for the Enso Cloud. This will involve:
 
-- Spearhead the architecture and design for the new version of Enso Studio.
 - Working closely with stakeholders and customers to design an interface that is
   both intuitive and fluid to work with.
 - Implementing these solutions using modern front-end web-development
@@ -29,11 +28,9 @@ new front-end for the Enso IDE: Enso Studio. This will involve:
 #### The Skills We're Looking For
 We have a few particular skills that we're looking for in this role:
 
-- Practical experience architecting user-facing applications, with a focus on
-  enabling user workflows.
 - A strong focus on both user experience and aesthetics.
 - Strong practical experience implementing large-scale, user-facing applications
-  in JavaScript.
+  in TypeScript.
 - A strong understanding, based on practical experience, of modern front-end
   frameworks, with a focus on React.
 - An understanding of cross-browser compatibility issues, and experience working
@@ -44,10 +41,7 @@ We have a few particular skills that we're looking for in this role:
 
 It would be a big bonus if you had:
 
-- Experience with visual programming systems such as Houdini, Max/MSP, Lab VIEW,
-  or Touch Designer.
-- Experience with languages that compile to JavaScript such as CoffeeScript or
-  TypeScript.
+- Experience with frameworks like Tailwind CSS and Next.js.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
