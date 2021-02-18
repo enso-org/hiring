@@ -42,11 +42,11 @@ Enso succeed.
 ## People We're Looking For
 Thanks for your interest in working with Enso. We're currently looking to fill one role:
 
-- **[Senior Rust Developer](people/senior-rust-gpu-developer.md)** to take
+- **[Senior Rust Developer](people/senior-rust-developer.md)** to take
   charge of the design, development, and evolution of a new WebGL-based GUI for
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
-  [Click here to learn more.](people/senior-rust-gpu-developer.md)
+  [Click here to learn more.](people/senior-rust-developer.md)
   
 - **[Senior React Developer](people/senior-react-developer.md)** to take
   charge of the design, development, and evolution of a new Enso Cloud GUI. 
