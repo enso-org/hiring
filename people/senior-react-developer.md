@@ -1,11 +1,11 @@
-## React Developer
-[Enso](https://enso.org) is looking for a senior react developer to take charge
+## Senior TypeScript Developer
+[Enso](https://enso.org) is looking for a senior TypeScript developer to take charge
 of the design, development and evolution of a new responsive front-end for Enso,
 a project said by Singularity University to have the potential to change the
 lives of one-billion people. If you bring strong technical experience and
 a passion for user experience, this role could be the one for you.
 
-As a senior react developer, you'll spearhead the design of the new
+As a senior TypeScript developer, you'll spearhead the design of the new
 user-interface for Enso Cloud, designing and building a front-end that can run
 across multiple browsers. Your work will become an integral part
 of Enso as you collaborate with a world-class team of skilled engineers,
@@ -13,7 +13,7 @@ community managers, and business developers (from Bloomberg, PayPal, and GitHub,
 to name a few), and to make your mark on Enso's future.
 
 #### What You're Looking For
-As a senior react developer developer you'll be in charge of the creation of the
+As a senior TypeScript developer developer you'll be in charge of the creation of the
 new front-end for the Enso Cloud. This will involve:
 
 - Working closely with stakeholders and customers to design an interface that is
