@@ -48,7 +48,7 @@ Thanks for your interest in working with Enso. We're currently looking to fill o
   this could be the role for you.
   [Click here to learn more.](people/senior-rust-developer.md)
   
-- **[Senior React Developer](people/senior-react-developer.md)** to take
+- **[Senior TypeScript Developer](people/senior-react-developer.md)** to take
   charge of the design, development, and evolution of a new Enso Cloud GUI. 
   If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
