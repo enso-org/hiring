@@ -6,7 +6,7 @@ interpersonal skills and a passion for teamwork, this could be the role for you.
 
 As a product manager you'll be able to collaborate with a world-class team of
 skilled engineers, community managers, and business developers (from Bloomberg,
-PayPal, and GitHub to name a few), and put your own touch on the future of Luna.
+PayPal, and GitHub to name a few), and put your own touch on the future of Enso.
 
 ## What You'll Do
 As the product manager at Enso you'll be in charge of ensuring the success of
