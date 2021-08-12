@@ -22,19 +22,13 @@
 </p>
 
 ## About Enso
-Enso is an award-winning general-purpose programming language and data-science
-platform, selected by NASA and Singularity University as a technology with the
-potential to impact the lives of one-billion people worldwide. It spans the
-entire stack, from high-level visualisation and communication, to the
-nitty-gritty of running backend services in a single language. With inbuilt
-capabilities for visualisation and a dual-syntax architecture, the possibilities
-are limitless.
+Enso (https://enso.org) is a no-code interactive ETL and data analysis tool. 
+It lets you load, blend, analyze your data, and then automate the whole process, 
+simply by connecting visual components together. 
 
 At Enso, we have a world-class team, with developers, community managers, and
-business developers from all walks of life and backgrounds, and work in close
-collaboration with industry advisers such as Robert Gentleman, the creator of
-the R programming language and computational biologist at 23andMe, and Edward
-Kmett, a skilled language designer and machine intelligence researcher at MIRI.
+business developers from all walks of life and backgrounds. We are backed by 
+world-class investors, including Y Combinator.
 
 We welcome anybody to our team, as long as you have the desire and drive to see
 Enso succeed.
