@@ -3,7 +3,7 @@ Hi, we are Enso (Y Combinator S21)! We are looking for a rock star Rust/WebGL
 developer to join our core team. We are a remote first company, working in 
 Europe and the USA.
 
-#### What is Enso
+#### What is Enso?
 **From the business perspective**, Enso is a no-code interactive data analysis
 tool. It lets you load, blend, and analyze your data, and then automate the 
 whole process, simply by connecting visual components together. Enso has the
@@ -19,7 +19,7 @@ JavaScript, Python, R) without wrappers and with close-to-zero performance overh
 Enso GUI is based on a custom Rust-based WebGL vector shapes renderer, while its 
 compiler utilizes the GraalVM framework. [Click here to learn more](https://enso.org/language).
 
-#### Who are we looking for
+#### Who are we looking for?
 Enso would be a great place for you if:
 - You're an expert in Rust.
 - You’re any race, color, religion, gender, national origin, political affiliation, 
