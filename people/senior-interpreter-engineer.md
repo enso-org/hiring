@@ -59,6 +59,7 @@ We have a few particular skills that we're looking for in this role:
   and with the JVM.
 - A comprehensive understanding of the JVM and its performance behaviours, 
   including its execution model and garbage collectors, born of practical experience.
+
 As part of the hiring process for this job posting we're very interested in your 
 previous work in these areas. Please link us to any experiments or previous projects 
 that you have in these areas! It's important for us to understand your experience at 
