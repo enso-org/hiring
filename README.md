@@ -36,16 +36,16 @@ Enso succeed.
 Thanks for your interest in working with Enso. We're currently looking to fill one role:
 
 - **[Senior Rust Developer](people/senior-rust-developer.md)** to take
-  charge of the design, development, and evolution of a new WebGL-based GUI for
+  charge of the design, development, and evolution of a WebGL-based GUI for
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
   [Click here to learn more.](people/senior-rust-developer.md)
   
-- **[Senior TypeScript Developer](people/senior-react-developer.md)** to take
-  charge of the design, development, and evolution of a new Enso Cloud GUI. 
-  If you bring strong technical skills and a passion for user experience,
-  this could be the role for you.
-  [Click here to learn more.](people/senior-react-developer.md)
+- **[Senior Interpreter Developer](people/senior-interpreter-engineer.md)** to take
+  charge of the design, development, and evolution of a Enso interpreter and runtime 
+  for Enso. If you have strong technical skills and a passion for all-things compiler
+  and interpreter, then this role could be the one for you.
+  [Click here to learn more.](people/senior-interpreter-engineer.md)
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
