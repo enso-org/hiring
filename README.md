@@ -41,7 +41,7 @@ Thanks for your interest in working with Enso. We're currently looking to fill o
   this could be the role for you.
   [Click here to learn more.](people/senior-rust-developer.md)
   
-- **[Senior Interpreter Developer](people/senior-interpreter-engineer.md)** to take
+- **[Senior Programming Language Compiler Developer (GraalVM / Truffle)](people/senior-interpreter-engineer.md)** to take
   charge of the design, development, and evolution of a Enso interpreter and runtime 
   for Enso. If you have strong technical skills and a passion for all-things compiler
   and interpreter, then this role could be the one for you.
