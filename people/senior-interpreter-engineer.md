@@ -1,4 +1,4 @@
-## Senior Interpreter Engineer
+## Senior Programming Language Compiler Developer (GraalVM / Truffle)
 Hi, we are Enso (Y Combinator S21)! We are looking for a skilled [GraalVM/Truffle](https://www.graalvm.org) interpreter 
 developer to join our core team and help us develop the [Enso JIT Polyglot Compiler](https://enso.org/language#compiler). We are a remote first company, working in 
 Europe and the USA.
