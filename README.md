@@ -8,13 +8,16 @@
 Enso (https://enso.org) is the most interactive data transformation tool that you
 have ever used. It lets you load, blend, analyze your data, and then automate the whole process, 
 simply by connecting visual components together. It can be used for both in-memory data processing,
-as well as SQL analytics and transformations on modern data stack (ELT).
+as well as SQL analytics and transformations on modern data stack (ELT). Enso has the
+potential to disrupt the data analytics industry over the next five years. 
+Currently, the market operates using old-fashioned, limited, and non-extensible
+software which has been unable to keep up with businesses as they transition to 
+the cloud.
+
 At Enso, we have a world-class team, with developers, community managers, and
 business developers from all walks of life and backgrounds. We are backed by 
-world-class investors, including Y Combinator.
-
-We welcome anybody to our team, as long as you have the desire and drive to see
-Enso succeed.
+world-class investors, including Y Combinator. We welcome anybody to our team, 
+as long as you have the desire and drive to see Enso succeed.
 
 ## People We're Looking For
 Thanks for your interest in working with Enso. We're currently looking to fill one role:
