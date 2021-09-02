@@ -1,4 +1,5 @@
-![rust logo](https://user-images.githubusercontent.com/1623053/131850813-3fae03d8-c34f-44ef-80f5-f08c90ec11bb.png | width=100)
+<img src="https://user-images.githubusercontent.com/1623053/131850813-3fae03d8-c34f-44ef-80f5-f08c90ec11bb.png" alt="rust logo" width="300px">
+
 
 ## Senior Rust Developer
 Hi, we are Enso (Y Combinator S21)! We are looking for a rock star Rust/WebGL 
