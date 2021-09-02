@@ -5,9 +5,10 @@
 </p>
 
 ## About Enso
-Enso (https://enso.org) is a no-code interactive ETL and data analysis tool. 
-It lets you load, blend, analyze your data, and then automate the whole process, 
-simply by connecting visual components together. 
+Enso (https://enso.org) is the most interactive data transformation tool that you
+have ever used. It lets you load, blend, analyze your data, and then automate the whole process, 
+simply by connecting visual components together. It can be used for both in-memory data processing,
+as well as SQL analytics and transformations on modern data stack (ELT).
 At Enso, we have a world-class team, with developers, community managers, and
 business developers from all walks of life and backgrounds. We are backed by 
 world-class investors, including Y Combinator.
