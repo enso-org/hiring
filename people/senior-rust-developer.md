@@ -22,7 +22,7 @@ JavaScript, Python, R) without wrappers and with close-to-zero performance overh
 Enso GUI is based on a custom Rust-based WebGL vector shapes renderer, while its 
 compiler utilizes the GraalVM framework. [Click here to learn more](https://enso.org/language).
 
-#### Who are we looking for?
+## Who are we looking for?
 Enso would be a great place for you if:
 - You're an expert in Rust.
 - You’re any race, color, religion, gender, national origin, political affiliation, 
@@ -37,7 +37,7 @@ Enso would be a great place for you if:
 - You appreciate a competitive salary and significant stock options.
 
 
-#### Responsibilities
+## Responsibilities
 You'll be responsible for designing and building the visual layer of Enso. 
 It includes a high-performance WebGL renderer, the Enso language graph editor, 
 and its visualization system. This will involve:
@@ -52,7 +52,7 @@ and its visualization system. This will involve:
   other JavaScript libraries.
 
 
-#### Requirements
+## Requirements
 We have a few particular skills that we're looking for in this role:
 
 - A strong focus on both user experience and aesthetics.
@@ -80,7 +80,7 @@ It would be a big bonus if you had:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-### How To Apply?
+## How To Apply?
 Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
 little bit about yourself and why you think you'd be a good fit for the role!
 You can also tell us about:
