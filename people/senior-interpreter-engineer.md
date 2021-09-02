@@ -1,9 +1,11 @@
-## Senior Programming Language Compiler Developer (GraalVM / Truffle)
+<img src="https://user-images.githubusercontent.com/1623053/131850979-fdb0e243-6ffe-46b8-9c14-d86784659741.png" alt="graalvm logo" width="300px">
+
+# Senior Programming Language Compiler Developer (GraalVM / Truffle)
 Hi, we are Enso (Y Combinator S21)! We are looking for a skilled [GraalVM/Truffle](https://www.graalvm.org) interpreter 
 developer to join our core team and help us develop the [Enso JIT Polyglot Compiler](https://enso.org/language#compiler). We are a remote first company, working in 
 Europe and the USA.
 
-### What is Enso?
+## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data analysis 
 tool. It lets you load, blend, and analyze your data, and then automate the 
 whole process, simply by connecting visual components together. Enso has the 
@@ -33,7 +35,7 @@ Enso would be a great place for you if:
 - You enjoy working in public, putting yourself out there and showing your learning.
 - You appreciate a competitive salary and significant stock options.
 
-### Responsibilities
+## Responsibilities
 You’ll be responsible for designing and building the engine that executes Enso code. 
 It includes a parser, a compiler that performs static analysis, a code generator, 
 and a sophisticated interpreter for the language, all built on top of GraalVM. 
@@ -49,7 +51,7 @@ This will involve:
 - Designing and building extensions to the Enso standard libraries to 
   ensure a truly “batteries included” experience.
 
-### Requirements
+## Requirements
 We have a few particular skills that we're looking for in this role:
 - A strong focus on user experience and performance.
 - 3+ years commercial experience working on language runtimes, compilers, 
@@ -74,7 +76,7 @@ It would be a big bonus if you had:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-### How To Apply?
+## How To Apply?
 Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
 little bit about yourself and why you think you'd be a good fit for the role!
 You can also tell us about:
