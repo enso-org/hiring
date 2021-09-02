@@ -6,10 +6,12 @@ developer to join our core team and help us develop the [Enso JIT Polyglot Compi
 Europe and the USA.
 
 ## What is Enso?
-**From the business perspective**, Enso is a no-code interactive data analysis 
+**From the business perspective**, Enso is a no-code interactive data transformation 
 tool. It lets you load, blend, and analyze your data, and then automate the 
-whole process, simply by connecting visual components together. Enso has the 
-potential to disrupt the data analytics industry over the next five years. 
+whole process, simply by connecting visual components together. It can be used for 
+both in-memory data processing, as well as SQL analytics and transformations on 
+modern data stack (ELT). Enso has the potential to disrupt the data analytics 
+industry over the next five years. 
 Currently, the market operates using old-fashioned, limited, and non-extensible 
 software which has been unable to keep up with businesses as they transition 
 to the cloud.
