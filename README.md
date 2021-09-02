@@ -1,24 +1,7 @@
 <p align="center">
-  <br/>
-  <a href="http://luna-lang.org">
-      <img
-          src="https://user-images.githubusercontent.com/1623053/75657359-50c92300-5c66-11ea-9cb8-61da8ee34df1.png"
-          alt="Enso Studio"
-          width="128"
-      />
+  <a href="https://enso.org">
+<img src="https://user-images.githubusercontent.com/1623053/114557275-cbd27a80-9c69-11eb-9e4d-a60187cdb7a4.gif" width="640" height="640"/>
   </a>
-  <br/>
-  <br/>
-  <a href="http://luna-lang.org">
-      <img
-          src="https://user-images.githubusercontent.com/1623053/75661125-05664300-5c6d-11ea-9bd3-8a5355db9609.png"
-          alt="Enso Language"
-          width="240"
-      />
-  </a>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
 ## About Enso
