@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/1623053/131850813-3fae03d8-c34f-44ef-80f5-f08c90ec11bb.png" alt="rust logo" width="300px">
 
 
-## Senior Rust Developer
+# Senior Rust Developer
 Hi, we are Enso (Y Combinator S21)! We are looking for a rock star Rust/WebGL 
 developer to join our core team. We are a remote first company, working in 
 Europe and the USA.
 
-#### What is Enso?
+## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data analysis
 tool. It lets you load, blend, and analyze your data, and then automate the 
 whole process, simply by connecting visual components together. Enso has the
