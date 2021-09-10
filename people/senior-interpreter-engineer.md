@@ -75,6 +75,7 @@ It would be a big bonus if you had:
   Touch Designer.
 - Experience using and developing software in purely-functional programming language 
   such as Haskell.
+
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
