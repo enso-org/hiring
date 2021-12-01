@@ -20,7 +20,7 @@ world-class investors, including Y Combinator. We welcome anybody to our team,
 as long as you have the desire and drive to see Enso succeed.
 
 ## People We're Looking For
-Thanks for your interest in working with Enso. We're currently looking to fill one role:
+Thanks for your interest in working with Enso. We're currently looking to fill two roles:
 
 - **[🦀 Senior Rust Developer](positions/senior-rust-developer.md)** to take
   charge of the design, development, and evolution of a WebGL-based GUI for
