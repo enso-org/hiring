@@ -48,10 +48,10 @@ We have a few particular skills that we're looking for in this role:
 - 3+ years commercial experience with Rust, including experience writing
   unsafe code for FFI and performance, and using the macro system for
   metaprogramming. You should be able to write idiomatic rust code.
-- Commerical experience working with at least one major cloud service: (GCP/AWS/Azure) and experience working with a dedicated IaC framework
+- Commercial experience working with at least one major cloud service: (GCP/AWS/Azure) and experience working with a dedicated IaC framework
 - Experience in building cloud heavy distributed systems
 - Familiarity with working in Linux environments
-- Ability to work with CI/CD pipelines based on github actions
+- Ability to work with CI/CD pipelines based on GitHub actions
 
 As part of the hiring process for this job posting we're very interested
 in your previous work in these areas. It's important for us to
