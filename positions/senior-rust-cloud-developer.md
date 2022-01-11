@@ -60,7 +60,7 @@ understand your experience at the start of the hiring process.
 It would be a big bonus if you had:
 
 - Practical experience with ReactJS
-- a strong focus / good sense of UI and aesthetics
+- a good sense of UI and aesthetics
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
