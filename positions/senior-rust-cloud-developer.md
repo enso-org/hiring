@@ -45,7 +45,6 @@ hosting both the language and its IDE in the cloud. This will involve:
 - Working closely with the other internal teams to design a secure and scalable SaaS architecture
 - Developing a SaaS solution based upon that design with robust tooling and reliability, as well as
   inbuilt support for collaboration.
-- Hosting the architecture on a cloud provider
 - Contributing to the evolution of this vibrant open-source project by bringing a new component to
   its ecosystem and product offering.
 
