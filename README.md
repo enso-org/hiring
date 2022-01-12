@@ -22,12 +22,15 @@ as long as you have the desire and drive to see Enso succeed.
 ## People We're Looking For
 Thanks for your interest in working with Enso. We're currently looking to fill two roles:
 
-- **[🦀 Senior Rust Developer](positions/senior-rust-developer.md)** to take
+- **[🦀 Senior Rust IDE Developer](positions/senior-rust-IDE-developer.md)** to take
   charge of the design, development, and evolution of a WebGL-based GUI for
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
   [Click here to learn more.](positions/senior-rust-developer.md)
-  
+- **[☁️ Senior Rust Cloud Developer](positions/senior-rust-cloud-developer.md)** to take charge of the design, development and
+  evolution of Enso Cloud. If you have passion for building SaaS products and strong
+  technical skills, this could be the role for you.
+  [Click here to learn more.](positions/senior-rust-cloud-developer.md)
 - **[🤖 Senior Programming Language Compiler Developer (GraalVM / Truffle)](positions/senior-interpreter-engineer.md)** to take
   charge of the design, development, and evolution of a Enso interpreter and runtime 
   for Enso. If you have strong technical skills and a passion for all-things compiler
