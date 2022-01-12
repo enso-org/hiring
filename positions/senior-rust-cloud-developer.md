@@ -8,8 +8,9 @@ Europe and the USA.
 
 **From the business perspective**, Enso is a no-code interactive data transformation
 tool. It lets you load, blend, and analyze your data, and then automate the 
-whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the
-potential to disrupt the data analytics industry over the next five years. 
+whole process, simply by connecting visual components together. It can be used for
+both in-memory data processing, as well as SQL analytics and transformations on modern
+data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
 Currently, the market operates using old-fashioned, limited, and non-extensible
 software which has been unable to keep up with businesses as they transition to 
 the cloud.
@@ -38,7 +39,15 @@ Enso would be a great place for you if:
 
 ## Responsibilities
 
-- [MISSING]
+As a senior cloud software engineer, you'll be in charge of building the SaaS offering for Enso,
+hosting both the language and its IDE in the cloud. This will involve:
+
+- Working closely with the other internal teams to design a secure and scalable SaaS architecture
+- Developing a SaaS solution based upon that design with robust tooling and reliability, as well as
+  inbuilt support for collaboration.
+- Hosting the architecture on a cloud provider
+- Contributing to the evolution of this vibrant open-source project by bringing a new component to
+  its ecosystem and product offering.
 
 
 ## Requirements
@@ -48,7 +57,8 @@ We have a few particular skills that we're looking for in this role:
 - 3+ years commercial experience with Rust, including experience writing
   unsafe code for FFI and performance, and using the macro system for
   metaprogramming. You should be able to write idiomatic rust code.
-- Commercial experience working with at least one major cloud service: (GCP/AWS/Azure) and experience working with a dedicated IaC framework
+- Commercial experience working with at least one major cloud service: (GCP/AWS/Azure) and
+  experience working with a dedicated IaC framework
 - Experience in building cloud heavy distributed systems
 - Familiarity with working in Linux environments
 - Ability to work with CI/CD pipelines based on GitHub actions
@@ -60,7 +70,8 @@ understand your experience at the start of the hiring process.
 It would be a big bonus if you had:
 
 - Practical experience with ReactJS
-- a good sense of UI and aesthetics
+- Experience with Scala
+- A good sense of UI and aesthetics
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
