@@ -22,7 +22,7 @@ as long as you have the desire and drive to see Enso succeed.
 ## People We're Looking For
 Thanks for your interest in working with Enso. We're currently looking to fill two roles:
 
-- **[🦀 Senior Rust IDE Developer](positions/senior-rust-IDE-developer.md)** to take
+- **[🦀 Senior Rust IDE Developer](positions/senior-rust-ide-developer.md)** to take
   charge of the design, development, and evolution of a WebGL-based GUI for
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
