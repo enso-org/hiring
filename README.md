@@ -26,7 +26,7 @@ Thanks for your interest in working with Enso. We're currently looking to fill t
   charge of the design, development, and evolution of a WebGL-based GUI for
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
-  [Click here to learn more.](positions/senior-rust-developer.md)
+  [Click here to learn more.](positions/senior-rust-ide-developer.md)
 - **[☁️ Senior Rust Cloud Developer](positions/senior-rust-cloud-developer.md)** to take charge of the design, development and
   evolution of Enso Cloud. If you have passion for building SaaS products and strong
   technical skills, this could be the role for you.
