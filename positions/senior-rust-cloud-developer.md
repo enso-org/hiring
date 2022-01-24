@@ -24,7 +24,7 @@ JavaScript, Python, R) without wrappers and with close-to-zero performance overh
 
 Enso would be a great place for you if:
 
-- You've the experince in designing and implementing secure, scalable, and collaboration-ready SaaS architectures.
+- You've the experience in designing and implementing secure, scalable, and collaboration-ready SaaS architectures.
 - You’re any race, color, religion, gender, national origin, political affiliation, 
   sexual orientation, marital status, disability, age.
 - You like to laugh.
