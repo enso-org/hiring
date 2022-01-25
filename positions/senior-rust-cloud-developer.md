@@ -68,7 +68,7 @@ understand your experience at the start of the hiring process.
 
 It would be a big bonus if you had:
 
-- Hands-on experience coding with JavaScript.
+- Hands-on experience coding with NodeJS.
 - Practical experience with ReactJS and Typescript.
 - Experience with Scala (our proof of concept implementation uses Scala).
 - A good sense of UI and aesthetics.
