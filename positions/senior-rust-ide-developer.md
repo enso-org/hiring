@@ -80,13 +80,6 @@ It would be a big bonus if you had:
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
 
-## How To Apply?
-Send us an email at [`jobs@enso.org`](mailto:jobs@enso.org), and tell us a
-little bit about yourself and why you think you'd be a good fit for the role!
-You can also tell us about:
+## [Apply here!](https://airtable.com/shrMr3cXmVcbc0c53)
 
-- Some of your past work or projects.
-- Why you'd like to work on Enso, and where you imagine Enso being in 5 years.
-- The most important features of a team that you'd like to work in.
-- Whether you take pride in your ability to communicate clearly and efficiently
-  with your team.
+Tell us a little bit about yourself and why you think you'd be a good fit for the role!
