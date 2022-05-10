@@ -54,7 +54,7 @@ hosting both the language and its IDE in the cloud. This will involve:
 We have a few particular skills that we're looking for in this role:
 
 - 3+ years experience in designing secure, scalable, and collaboration-ready SaaS architectures.
-- Commercial experience in a low-level language such as C, C++, or Rust.
+- 3+ years of commercial experience in Rust.
 - A strong commitment to security and scalability that permeates your approach to design.
 - Commercial experience working with at least one major cloud service: (Azure/AWS/GCP) and
   experience working with a dedicated IaC framework (Terraform, Azure Resource Manager).
