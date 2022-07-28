@@ -1,8 +1,8 @@
 # Senior TypeScript Developer
-Hi, we are Enso (Y Combinator S21) and we are hiring! To join our cloud team we are 
-looking for a talented TypeScript/React developer. As a remote first company you could 
-be working with us from either Europe or the USA. Drop us a message maybe you will be 
-developing Enso with us next!
+Hi, we are Enso (Y Combinator S21) and we are hiring! We are 
+looking for a talented TypeScript/React developer to join our cloud team. 
+As a remote first company you could be working with us from Europe or 
+the USA. Drop us a message! Maybe you will be developing Enso with us next!
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation
