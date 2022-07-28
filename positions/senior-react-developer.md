@@ -2,7 +2,8 @@
 Hi, we are Enso (Y Combinator S21) and we are hiring! We are 
 looking for a talented TypeScript/React freelance contractor to support our cloud team. 
 As a remote first company you could be working with us from Europe or 
-the USA. Drop us a message! Maybe you will be developing Enso with us next!
+North America. Please mind this is not a permanent role. We need someone to help us
+with the experience to design, estimate and develop our frontend part of the Cloud product.
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation
