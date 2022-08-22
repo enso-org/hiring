@@ -36,10 +36,10 @@ We have a few particular skills that we're looking for in this role:
 
 It would be a big bonus if you had:
 
-- Interest in functional languages (Agda, Haskell, Idris, OCaml)
-- Interest in data science
-- Experience in designing APIs
-- Experience in SQL and database technologies
+- Interest in functional languages (Agda, Haskell, Idris, OCaml).
+- Interest in data science.
+- Experience in designing APIs.
+- Experience in SQL and database technologies.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
