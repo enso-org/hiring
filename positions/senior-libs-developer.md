@@ -27,16 +27,16 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 ## Requirements
 We have a few particular skills that we're looking for in this role:
 
-- Good experience and knowledge of a modern OO language (e.g. Java or C#)
-- Solid understanding of basic algorithms and data structures
-- Ability to pick up new technologies and languages
-- Strong problem solving skills but willing to ask for help when needed
-- Passionate about building well-structured and maintainable code
-- Friendly, with good communication skill
+- Good experience and knowledge of a modern OO language (e.g. Java or C#).
+- Solid understanding of basic algorithms and data structures.
+- Ability to pick up new technologies and languages.
+- Strong problem solving skills but willing to ask for help when needed.
+- Passionate about building well-structured and maintainable code.
+- Friendly, with good communication skill.
 
 It would be a big bonus if you had:
 
-- Interest in functional languages
+- Interest in functional languages (Agda, Haskell, Idris, OCaml)
 - Interest in data science
 - Experience in designing APIs
 - Experience in SQL and database technologies
@@ -46,6 +46,6 @@ You don't have to match _all_ of the skills above to apply!
 
 
 //UPDATE NEEDED?// @sylwiabr
-## [Apply here!](https://airtable.com/shrLT2x66UuyAI19B)
+## [Apply here!](https://airtable.com/shrcF8ROkEeFTNEfX)
 
 Tell us a little bit about yourself and why you think you'd be a good fit for the role!
