@@ -6,14 +6,12 @@ As a remote first company you could be working with us from Europe or North Amer
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then  automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
 Currently, the market operates using old-fashioned, limited, and non-extensible software which has been unable to keep up with businesses as they transition to the cloud.
 
-**From a technical perspective**, Enso is a purely functional, programming language with a double visual and textual syntax representation and a polyglot
-evaluation model. It means that you can mix other languages with Enso (Java, JavaScript, Python, R) without wrappers and with close-to-zero performance overhead.
+**From a technical perspective**, Enso is a purely functional, programming language with a double visual and textual syntax representation and a polyglot evaluation model. It means that you can mix other languages with Enso (Java, JavaScript, Python, R) without wrappers and with close-to-zero performance overhead.
 
 ## Who are we looking for?
 Enso would be a great place for you if:
 - You're an expert in TypeScript and React.js.
-- You’re any race, color, religion, gender, national origin, political affiliation, 
-  sexual orientation, marital status, disability, age.
+- You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, age.
 - You like to laugh.
 - You want to work hard, have fun doing it, and own projects from end-to-end.
 - You are friendly and like to collaborate.
@@ -47,7 +45,7 @@ Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/a
 You don't have to match _all_ of the skills above to apply!
 
 
-//UPDATE NEEDED?//
+//UPDATE NEEDED?// @sylwiabr
 ## [Apply here!](https://airtable.com/shrLT2x66UuyAI19B)
 
 Tell us a little bit about yourself and why you think you'd be a good fit for the role!
