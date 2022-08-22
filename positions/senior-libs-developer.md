@@ -1,12 +1,6 @@
-# Senior Libraries Developer
-Hi, we are Enso (Y Combinator S21) and we are hiring! We are looking for a talented 
-// Libraries Developer ? (name of the posisiton needed)
-
-to support our libraries team. 
-// Update needed - or is it ok?
-
+# Senior Library Developer
+Hi, we are Enso (Y Combinator S21) and we are hiring! We are looking for a talented Library Developer to support our libraries team. 
 As a remote first company you could be working with us from Europe or North America. We need someone to help us with the experience to design, estimate and develop our 
-// UPDATE NEEDED (set of libraries supported by Enso Language)?
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then  automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
@@ -30,16 +24,7 @@ Enso would be a great place for you if:
 - You appreciate a competitive salary.
 
 ## Responsibilities
-As a 
-// Position name needed
-
-developer developer you'll be in charge of the 
-// how to call the set of the responsibilities in general?
-
-. This will involve:
-// list of responsibilities
-- 
-
+As a Library Developer you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will be help mature the language itself with input on the features needed to build out a new programming language.
 
 ## Requirements
 We have a few particular skills that we're looking for in this role:
