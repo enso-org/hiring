@@ -34,7 +34,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 **It would be a big bonus if you had:**
 - Interest in functional languages (Agda, Haskell, Idris, OCaml).
 - Interest in data science.
-- Experience in Jave language.
+- Experience in Java language.
 - Experience in SQL and database technologies.
 
 
