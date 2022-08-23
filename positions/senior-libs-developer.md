@@ -9,7 +9,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 
 ## Who are we looking for?
 Enso would be a great place for you if:
-- You're an experienced Java developer willing to pick up a new language (Enso).
+- You're an experienced libraries developer willing to pick up a new language (Enso).
 - You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, age.
 - You like to laugh.
 - You want to work hard, have fun doing it, and own projects from end-to-end.
