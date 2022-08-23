@@ -2,7 +2,7 @@
 
 
 # Senior Rust IDE Developer
-Hi, we are Enso ([ENSO.org](https://enso.org), Y Combinator S21)! We are looking for a rock star Rust/WebGL 
+Hi, we are Enso ([enso.org](https://enso.org), Y Combinator S21)! We are looking for a rock star Rust/WebGL 
 developer to join our core team. We are a remote first company, working in 
 Europe and the USA.
 
