@@ -1,6 +1,6 @@
 # Senior Library Developer
 Hi, we are Enso (Y Combinator S21) and we are hiring! We are looking for a talented Library Developer to support our libraries team. 
-As a remote first company you could be working with us from Europe or North America. We need someone to help us with the experience to design, estimate and develop our 
+As a remote first company you could be working with us from Europe or North America. We need someone with experience to help us design and develop our set of libraries.
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then  automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
@@ -10,7 +10,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 
 ## Who are we looking for?
 Enso would be a great place for you if:
-- You're an expert Java developer willing to pick up a new language (Enso).
+- You're an experienced Java developer willing to pick up a new language (Enso).
 - You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, age.
 - You like to laugh.
 - You want to work hard, have fun doing it, and own projects from end-to-end.
@@ -38,6 +38,7 @@ It would be a big bonus if you had:
 
 - Interest in functional languages (Agda, Haskell, Idris, OCaml).
 - Interest in data science.
+- Expirience in database analytics.
 - Experience in designing APIs.
 - Experience in SQL and database technologies.
 
@@ -45,7 +46,6 @@ Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/a
 You don't have to match _all_ of the skills above to apply!
 
 
-//UPDATE NEEDED?// @sylwiabr
 ## [Apply here!](https://airtable.com/shrcF8ROkEeFTNEfX)
 
 Tell us a little bit about yourself and why you think you'd be a good fit for the role!
