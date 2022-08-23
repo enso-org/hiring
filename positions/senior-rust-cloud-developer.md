@@ -1,6 +1,6 @@
 # ☁️ Senior Cloud Rust Engineer
 
-Hi, we are Enso (Y Combinator S21)! We are looking for an amazing Cloud 
+Hi, we are Enso (https://enso.org, Y Combinator S21)! We are looking for an amazing Cloud 
 engineer to join our core team. We are a remote first company, working in 
 Europe and the USA.
 
