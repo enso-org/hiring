@@ -2,7 +2,7 @@
 Hi :) We are looking for an experienced libraries developer to design and implement high-performance data processing libraries for Enso (https://enso.org, YC S21), a functional, hybrid visual/textual programming language with immutable memory. You will be working in an incredibly talented team with Edward Kmett (chair of the Haskell libraries committee), Jaroslav Tulach (founder of NetBeans, co-creator of GraalVM Truffle), and many more.
 
 ## What is Enso?
-**From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then  automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
+**From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
 Currently, the market operates using old-fashioned, limited, and non-extensible software which has been unable to keep up with businesses as they transition to the cloud.
 
 **From a technical perspective**, Enso is a purely functional, programming language with a double visual and textual syntax representation and a polyglot evaluation model. It means that you can mix other languages with Enso (Java, JavaScript, Python, R) without wrappers and with close-to-zero performance overhead.
@@ -25,7 +25,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 
 ## Requirements
 **We have a few particular skills that we're looking for in this role:**
-- Expirience in implementing libraries in funcional languages (especially those with inmutable memory model).
+- Experience in implementing libraries in functional languages (especially those with inmuimmutable table memory model).
 - Solid understanding of basic algorithms and data structures.
 - Ability to pick up new technologies and languages.
 - Strong problem solving skills but willing to ask for help when needed.
@@ -34,6 +34,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 **It would be a big bonus if you had:**
 - Interest in functional languages (Agda, Haskell, Idris, OCaml).
 - Interest in data science.
+- Experience in Jave language.
 - Experience in SQL and database technologies.
 
 
