@@ -8,7 +8,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 **From a technical perspective**, Enso is a purely functional, programming language with a double visual and textual syntax representation and a polyglot evaluation model. It means that you can mix other languages with Enso (Java, JavaScript, Python, R) without wrappers and with close-to-zero performance overhead.
 
 ## Who are we looking for?
-Enso would be a great place for you if:
+**Enso would be a great place for you if:**
 - You're an experienced libraries developer willing to pick up a new language (Enso).
 - You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, age.
 - You like to laugh.
@@ -24,22 +24,18 @@ Enso would be a great place for you if:
 As a Library Developer you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will be help mature the language itself with input on the features needed to build out a new programming language.
 
 ## Requirements
-We have a few particular skills that we're looking for in this role:
-
+**We have a few particular skills that we're looking for in this role:**
 - Expirience in implementing libraries in funcional languages (especially those with inmutable memory model).
 - Solid understanding of basic algorithms and data structures.
 - Ability to pick up new technologies and languages.
 - Strong problem solving skills but willing to ask for help when needed.
 - Passionate about building well-structured and maintainable code.
-- Friendly, with good communication skill.
 
-It would be a big bonus if you had:
-
+**It would be a big bonus if you had:**
 - Interest in functional languages (Agda, Haskell, Idris, OCaml).
 - Interest in data science.
-- Expirience in database analytics.
-- Experience in designing APIs.
 - Experience in SQL and database technologies.
+
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
