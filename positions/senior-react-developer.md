@@ -1,5 +1,5 @@
 # Senior TypeScript Developer
-Hi, we are Enso (https://enso.org, Y Combinator S21) and we are hiring! We are 
+Hi, we are Enso ([ENSO.org](https://enso.org), Y Combinator S21) and we are hiring! We are 
 looking for a talented TypeScript/React freelance contractor to support our cloud team. 
 As a remote first company you could be working with us from Europe or 
 North America. Please mind this is not a permanent role. We need someone to help us
