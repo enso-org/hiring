@@ -25,7 +25,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 
 ## Requirements
 **We have a few particular skills that we're looking for in this role:**
-- Experience in implementing libraries in functional languages (especially those with immutable table memory model).
+- Experience in implementing libraries in functional languages (especially those with immutable memory model).
 - Solid understanding of basic algorithms and data structures.
 - Ability to pick up new technologies and languages.
 - Strong problem solving skills but willing to ask for help when needed.
