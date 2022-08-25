@@ -35,7 +35,7 @@ Enso would be a great place for you if:
 - You appreciate a competitive salary.
 
 ## Responsibilities
-As a senior TypeScript developer developer you'll be in charge of the creation of the
+As a senior TypeScript developer you'll be in charge of the creation of the
 new front-end for the Enso Cloud. This will involve:
 
 - Working closely with stakeholders and customers to design an interface that is
