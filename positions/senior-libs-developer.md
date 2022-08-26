@@ -1,5 +1,5 @@
 # Senior Library Developer
-Hi :) We are looking for an experienced libraries developer to design and implement high-performance data processing libraries for Enso (https://enso.org, YC S21), a functional, hybrid visual/textual programming language with immutable memory. You will be working in an incredibly talented team with Edward Kmett (chair of the Haskell libraries committee), Jaroslav Tulach (founder of NetBeans, co-creator of GraalVM Truffle), and many more.
+Hi, we are looking for an experienced libraries developer to design and implement high-performance data processing libraries for Enso ([enso.org](https://enso.org), YC S21), a functional, hybrid visual/textual programming language with immutable memory. You will be working in an incredibly talented team with Edward Kmett (served as the founding chair the Haskell core libraries committee), Jaroslav Tulach (founder of NetBeans, co-creator of GraalVM Truffle), and many more.
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
@@ -25,7 +25,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 
 ## Requirements
 **We have a few particular skills that we're looking for in this role:**
-- Experience in implementing libraries in functional languages (especially those with inmuimmutable table memory model).
+- Experience in implementing libraries in functional languages (especially those with immutable memory model).
 - Solid understanding of basic algorithms and data structures.
 - Ability to pick up new technologies and languages.
 - Strong problem solving skills but willing to ask for help when needed.
@@ -34,7 +34,7 @@ As a Library Developer you'll be helping to shape, define and build the data ana
 **It would be a big bonus if you had:**
 - Interest in functional languages (Agda, Haskell, Idris, OCaml).
 - Interest in data science.
-- Experience in Jave language.
+- Experience in Java language.
 - Experience in SQL and database technologies.
 
 

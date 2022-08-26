@@ -5,7 +5,7 @@
 </p>
 
 ## About Enso
-Enso (https://enso.org) is the most interactive data transformation tool that you
+Enso ([enso.org](https://enso.org)) is the most interactive data transformation tool that you
 have ever used. It lets you load, blend, analyze your data, and then automate the whole process, 
 simply by connecting visual components together. It can be used for both in-memory data processing,
 as well as SQL analytics and transformations on modern data stack (ELT). Enso has the
@@ -27,10 +27,15 @@ Thanks for your interest in working with Enso. We're currently looking to fill t
   Enso. If you bring strong technical skills and a passion for user experience,
   this could be the role for you.
   [Click here to learn more.](positions/senior-rust-ide-developer.md)
-- **[☁️ Senior Rust Cloud Developer](positions/senior-rust-cloud-developer.md)** to take charge of the design, development and
-  evolution of Enso Cloud. If you have passion for building SaaS products and strong
-  technical skills, this could be the role for you.
+- **[☁️ Senior Rust Cloud Developer](positions/senior-rust-cloud-developer.md)** to take 
+  charge of the design, development and evolution of Enso Cloud. If you have passion for 
+  building SaaS products and strong technical skills, this could be the role for you.
   [Click here to learn more.](positions/senior-rust-cloud-developer.md)
+- **[📚 Senior Libraries Developer](senior-libs-developer.md)** to design and implement 
+  high-performance data processing libraries for Enso. If you are passionate about functional 
+  languages – especially those with immutable table memory model and have experience in 
+  implementing libraries in it, this could be the role for you.
+  [Click here to learn more.](positions/senior-rust-ide-developer.md)
 - **[🤖 Senior Programming Language Compiler Developer (GraalVM / Truffle)](positions/senior-interpreter-engineer.md)** to take
   charge of the design, development, and evolution of a Enso interpreter and runtime 
   for Enso. If you have strong technical skills and a passion for all-things compiler
