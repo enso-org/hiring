@@ -1,5 +1,5 @@
 # Senior Library Developer
-Hi, we are looking for an experienced libraries developer to design and implement high-performance data processing libraries for Enso ([enso.org](https://enso.org), YC S21), a functional, hybrid visual/textual programming language with immutable memory. You will be working in an incredibly talented team with Edward Kmett (served as the founding chair the Haskell core libraries committee), Jaroslav Tulach (founder of NetBeans, co-creator of GraalVM Truffle), and many more.
+Hi, we are looking for an experienced libraries developer to design and implement high-performance data processing libraries for Enso ([enso.org](https://enso.org), YC S21), a functional, hybrid visual/textual programming language with immutable memory. You will be working in an incredibly talented team with Jaroslav Tulach (founder of NetBeans, co-creator of GraalVM Truffle) and many more.
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
