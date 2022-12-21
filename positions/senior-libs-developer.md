@@ -21,7 +21,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 - You appreciate a competitive salary.
 
 ## Responsibilities
-As a Library Developer you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will be help mature the language itself with input on the features needed to build out a new programming language.
+As a Library Developer you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will help mature the language itself with input on the features needed to build out a new programming language.
 
 ## Requirements
 **We have a few particular skills that we're looking for in this role:**
