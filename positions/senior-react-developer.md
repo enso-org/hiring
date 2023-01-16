@@ -1,5 +1,5 @@
-# Senior TypeScript Developer
-Hi, we are Enso ([enso.org](https://enso.org), Y Combinator S21) and we are hiring! We are looking for a talented TypeScript/React developer to support our cloud team. As a remote first company you could be working with us from Europe or North America. We need someone to help us to design, estimate and develop our frontend part of the Cloud product.
+# ☁️ Senior TypeScript Developer
+Hi, we are Enso ([enso.org](https://enso.org), Y Combinator S21) and we are hiring! We are looking for a talented TypeScript/React developer to join our cloud team. As a remote first company you could be working with us from Europe or North America. We need someone to help us to design, estimate and develop our frontend part of the Cloud product.
 
 ## What is Enso?
 **From the business perspective**, Enso is a no-code interactive data transformation tool. It lets you load, blend, and analyze your data, and then automate the whole process, simply by connecting visual components together. It can be used for both in-memory data processing, as well as SQL analytics and transformations on modern data stack (ELT). Enso has the potential to disrupt the data analytics industry over the next five years. 
@@ -39,8 +39,9 @@ We have a few particular skills that we're looking for in this role:
 - Familiarity with front-end build tools such as Webpack.
 - Experience with testing tools, both for integration and for front-end (e.g. Selenium).
 
-It would be a big bonus if you had:
+## It would be a big bonus if you had:
 - Experience with frameworks like Tailwind CSS and Next.js.
+- Any experience with Rust language or willingness of picking it up.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!

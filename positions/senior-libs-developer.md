@@ -10,7 +10,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 ## Who are we looking for?
 **Enso would be a great place for you if:**
 - You're an experienced libraries developer willing to pick up a new language (Enso).
-- You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, age.
+- You’re any race, color, religion, gender, national origin, political affiliation, sexual orientation, marital status, disability, or age.
 - You like to laugh.
 - You want to work hard, have fun doing it, and own projects from end-to-end.
 - You are friendly and like to collaborate.
@@ -21,7 +21,7 @@ Currently, the market operates using old-fashioned, limited, and non-extensible 
 - You appreciate a competitive salary.
 
 ## Responsibilities
-As a Library Developer you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will help mature the language itself with input on the features needed to build out a new programming language.
+As a Library Developer, you'll be helping to shape, define and build the data analytics and blending APIs provided by Enso. Additionally, you will help mature the language itself with input on the features needed to build out a new programming language.
 
 ## Requirements
 **We have a few particular skills that we're looking for in this role:**
