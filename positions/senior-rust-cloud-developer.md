@@ -66,7 +66,7 @@ As part of the hiring process for this job posting we're very interested
 in your previous work in these areas. It's important for us to
 understand your experience at the start of the hiring process.
 
-It would be a big bonus if you had:
+## It would be a big bonus if you had:
 
 - Hands-on experience coding with NodeJS.
 - Practical experience with ReactJS and Typescript.
