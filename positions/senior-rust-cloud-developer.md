@@ -56,8 +56,7 @@ We have a few particular skills that we're looking for in this role:
 - 3+ years experience in designing secure, scalable, and collaboration-ready SaaS architectures.
 - 3+ years of commercial experience in Rust.
 - A strong commitment to security and scalability that permeates your approach to design.
-- Commercial experience working with at least one major cloud service: (Azure/AWS/GCP) and
-  experience working with a dedicated IaC framework (Terraform, Azure Resource Manager).
+- Commercial experience working with AWS and Terraform.
 - Experience in building cloud heavy distributed systems.
 - Familiarity with working in Linux environments.
 - Ability to work with CI/CD pipelines based on GitHub actions.
@@ -70,7 +69,6 @@ understand your experience at the start of the hiring process.
 
 - Hands-on experience coding with NodeJS.
 - Practical experience with ReactJS and Typescript.
-- Experience with Scala (our proof of concept implementation uses Scala).
 - A good sense of UI and aesthetics.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
