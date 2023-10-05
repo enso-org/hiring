@@ -36,7 +36,7 @@ We have a few particular skills that we're looking for in this role:
 - Strong practical experience implementing large-scale, user-facing applications in TypeScript.
 - A strong understanding, based on practical experience, of modern front-end frameworks, with a focus on React and Vue.js.
 - An understanding of cross-browser compatibility issues, and experience working around such problems.
-- Familiarity with front-end build tools such as Esbuild.
+- Familiarity with front-end build tools such as ESBuild.
 
 ## It would be a big bonus if you had:
 - Experience with Vue.js.
