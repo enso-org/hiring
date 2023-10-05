@@ -22,25 +22,10 @@ as long as you have the desire and drive to see Enso succeed.
 ## People We're Looking For
 Thanks for your interest in working with Enso. We're currently looking to fill three roles:
 
-- **[🦀 Senior Rust IDE Developer](positions/senior-rust-ide-developer.md)** to take
-  charge of the design, development, and evolution of a WebGL-based GUI for
-  Enso. If you bring strong technical skills and a passion for user experience,
-  this could be the role for you.
-  [Click here to learn more.](positions/senior-rust-ide-developer.md)
-- **[☁️ Senior Rust Cloud Developer](positions/senior-rust-cloud-developer.md)** to take 
-  charge of the design, development and evolution of Enso Cloud. If you have passion for 
-  building SaaS products and strong technical skills, this could be the role for you.
-  [Click here to learn more.](positions/senior-rust-cloud-developer.md)
-- **[📚 Senior Libraries Developer](positions/senior-libs-developer.md)** to design and implement 
-  high-performance data processing libraries for Enso. If you are passionate about functional 
-  languages – especially those with immutable table memory model and have experience in 
-  implementing libraries in it, this could be the role for you.
-  [Click here to learn more.](positions/senior-rust-ide-developer.md)
-- **[🤖 Senior Programming Language Compiler Developer (GraalVM / Truffle)](positions/senior-interpreter-engineer.md)** to take
-  charge of the design, development, and evolution of a Enso interpreter and runtime 
-  for Enso. If you have strong technical skills and a passion for all-things compiler
-  and interpreter, then this role could be the one for you.
-  [Click here to learn more.](positions/senior-interpreter-engineer.md)
+- **[☁️ Senior TypeScript Developer](positions/senior-react-developer.md)** to take 
+  charge of the design, development and evolution of Enso Cloud front-end. If you have passion for 
+  building UI and strong technical skills, this could be the role for you.
+  [Click here to learn more.](positions/senior-react-developer.md)
 
 ## Who You'll Work With
 You'll be joining a distributed, multi-disciplinary team that includes people
