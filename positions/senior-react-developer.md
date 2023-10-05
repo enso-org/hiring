@@ -34,14 +34,13 @@ We have a few particular skills that we're looking for in this role:
 
 - A strong focus on both user experience and aesthetics. Previous experience with designing UX is a plus.
 - Strong practical experience implementing large-scale, user-facing applications in TypeScript.
-- A strong understanding, based on practical experience, of modern front-end frameworks, with a focus on React and NextJs.
+- A strong understanding, based on practical experience, of modern front-end frameworks, with a focus on React and Vue.js.
 - An understanding of cross-browser compatibility issues, and experience working around such problems.
 - Familiarity with front-end build tools such as Webpack.
 - Experience with testing tools, both for integration and for front-end (e.g. Selenium).
 
 ## It would be a big bonus if you had:
-- Experience with frameworks like Tailwind CSS and Next.js.
-- Any experience with Rust language or willingness of picking it up.
+- Experience with Vue.js.
 
 Avoid [the confidence gap](https://www.forbes.com/sites/womensmedia/2014/04/28/act-now-to-shrink-the-confidence-gap/).
 You don't have to match _all_ of the skills above to apply!
